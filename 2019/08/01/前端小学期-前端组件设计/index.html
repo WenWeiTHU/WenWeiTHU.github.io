@@ -94,20 +94,20 @@
 
 
 
-  <meta name="description" content="对Web前端的理解有一张非常经典的图解释了前端和后台的关系，虽然是调侃，但一个酷炫的前端的确能在第一时间给客户一个良好的印象，网站没有前端效果的支撑，不管后端功能实现如何完善，都不能赢得客户的青睐，甚至是沦为残次品，在竞争激烈的互联网世界，我们越来越偏向于沦为视觉动物，前端效果是一个web网站美感和基本用户体验的灵魂的展现，更是企业实力的呈现。对于网站优化来说，最重要的是网站用户体验度，网站前端设">
+  <meta name="description" content="本文为原生JS实现的网页树形列表组件的实验文档 实现效果 实现效果    目标效果   一些说明：根据目标效果和功能，点击节点右侧的图标控制子节点的收起和展开，点击节点的标题触发回调函数；同时应用动画过渡和样式渐变，enjoy! 实现思路与问题解决实现树形列表组件的过程主要分为四个阶段： 1. 生成结构生成树形结构的代码在.js文件中为类方法的generate部分，这里递归地为传入的root元素构">
 <meta property="og:type" content="article">
-<meta property="og:title" content="前端小学期|网页设计篇">
-<meta property="og:url" content="http://wenweithu.github.io/2019/07/31/前端小学期-网页设计篇/index.html">
+<meta property="og:title" content="前端小学期|前端组件设计">
+<meta property="og:url" content="http://wenweithu.github.io/2019/08/01/前端小学期-前端组件设计/index.html">
 <meta property="og:site_name" content="Wenwei&#39;s Page">
-<meta property="og:description" content="对Web前端的理解有一张非常经典的图解释了前端和后台的关系，虽然是调侃，但一个酷炫的前端的确能在第一时间给客户一个良好的印象，网站没有前端效果的支撑，不管后端功能实现如何完善，都不能赢得客户的青睐，甚至是沦为残次品，在竞争激烈的互联网世界，我们越来越偏向于沦为视觉动物，前端效果是一个web网站美感和基本用户体验的灵魂的展现，更是企业实力的呈现。对于网站优化来说，最重要的是网站用户体验度，网站前端设">
+<meta property="og:description" content="本文为原生JS实现的网页树形列表组件的实验文档 实现效果 实现效果    目标效果   一些说明：根据目标效果和功能，点击节点右侧的图标控制子节点的收起和展开，点击节点的标题触发回调函数；同时应用动画过渡和样式渐变，enjoy! 实现思路与问题解决实现树形列表组件的过程主要分为四个阶段： 1. 生成结构生成树形结构的代码在.js文件中为类方法的generate部分，这里递归地为传入的root元素构">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:image" content="http://wenweithu.github.io/2019/07/31/前端小学期-网页设计篇/img1.png">
-<meta property="og:image" content="http://wenweithu.github.io/2019/07/31/前端小学期-网页设计篇/img2.png">
-<meta property="og:updated_time" content="2019-07-31T15:41:05.543Z">
+<meta property="og:image" content="http://wenweithu.github.io/2019/08/01/前端小学期-前端组件设计/img1.png">
+<meta property="og:image" content="http://wenweithu.github.io/2019/08/01/前端小学期-前端组件设计/img2.png">
+<meta property="og:updated_time" content="2019-07-31T16:16:59.911Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="前端小学期|网页设计篇">
-<meta name="twitter:description" content="对Web前端的理解有一张非常经典的图解释了前端和后台的关系，虽然是调侃，但一个酷炫的前端的确能在第一时间给客户一个良好的印象，网站没有前端效果的支撑，不管后端功能实现如何完善，都不能赢得客户的青睐，甚至是沦为残次品，在竞争激烈的互联网世界，我们越来越偏向于沦为视觉动物，前端效果是一个web网站美感和基本用户体验的灵魂的展现，更是企业实力的呈现。对于网站优化来说，最重要的是网站用户体验度，网站前端设">
-<meta name="twitter:image" content="http://wenweithu.github.io/2019/07/31/前端小学期-网页设计篇/img1.png">
+<meta name="twitter:title" content="前端小学期|前端组件设计">
+<meta name="twitter:description" content="本文为原生JS实现的网页树形列表组件的实验文档 实现效果 实现效果    目标效果   一些说明：根据目标效果和功能，点击节点右侧的图标控制子节点的收起和展开，点击节点的标题触发回调函数；同时应用动画过渡和样式渐变，enjoy! 实现思路与问题解决实现树形列表组件的过程主要分为四个阶段： 1. 生成结构生成树形结构的代码在.js文件中为类方法的generate部分，这里递归地为传入的root元素构">
+<meta name="twitter:image" content="http://wenweithu.github.io/2019/08/01/前端小学期-前端组件设计/img1.png">
 
 
 
@@ -115,7 +115,7 @@
 
   
   
-  <link rel="canonical" href="http://wenweithu.github.io/2019/07/31/前端小学期-网页设计篇/">
+  <link rel="canonical" href="http://wenweithu.github.io/2019/08/01/前端小学期-前端组件设计/">
 
 
 
@@ -125,7 +125,7 @@
   };
 </script>
 
-  <title>前端小学期|网页设计篇 | Wenwei's Page</title>
+  <title>前端小学期|前端组件设计 | Wenwei's Page</title>
   
 
 
@@ -337,7 +337,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://wenweithu.github.io/2019/07/31/前端小学期-网页设计篇/">
+    <link itemprop="mainEntityOfPage" href="http://wenweithu.github.io/2019/08/01/前端小学期-前端组件设计/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Wenwei">
@@ -354,7 +354,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">前端小学期|网页设计篇
+          <h1 class="post-title" itemprop="name headline">前端小学期|前端组件设计
 
               
             
@@ -380,7 +380,7 @@
                 
               
 
-              <time title="创建时间：2019-07-31 21:42:55 / 修改时间：23:41:05" itemprop="dateCreated datePublished" datetime="2019-07-31T21:42:55+08:00">2019-07-31</time>
+              <time title="创建时间：2019-08-01 00:01:56 / 修改时间：00:16:59" itemprop="dateCreated datePublished" datetime="2019-08-01T00:01:56+08:00">2019-08-01</time>
             </span>
           
 
@@ -430,9 +430,22 @@
       
 
       
-        <h2 id="对Web前端的理解"><a href="#对Web前端的理解" class="headerlink" title="对Web前端的理解"></a>对Web前端的理解</h2><p>有一张非常经典的图解释了前端和后台的关系，虽然是调侃，但一个酷炫的前端的确能在第一时间给客户一个良好的印象，网站没有前端效果的支撑，不管后端功能实现如何完善，都不能赢得客户的青睐，甚至是沦为残次品，在竞争激烈的互联网世界，我们越来越偏向于沦为视觉动物，前端效果是一个web网站美感和基本用户体验的灵魂的展现，更是企业实力的呈现。对于网站优化来说，最重要的是网站用户体验度，网站前端设计直接决定了用户体验度的高低。用户体验度是客户的一种纯主观的感受，如何给客户良好的主观感受，就得站在客户的角度考虑问题，阅览内容主题重点突出，视觉效果好，交互趣味性，有效性，增加阅览的愉悦性观赏性，以此达到留住用户的目的，这些都是需要前端效果实现去呈现的。<br><img src="//wenweithu.github.io/2019/07/31/前端小学期-网页设计篇/img1.png" alt="img"></p>
-<h2 id="课程期待"><a href="#课程期待" class="headerlink" title="课程期待"></a>课程期待</h2><p>之前上过一些网页设计的基础课程,是使用旧版Adobe Dreamweaver工具制作,有些类似Word的“所见即所得”的设计方法，尽管制作起来很方便，但有一个很大的问题就是兼容性差，在本地制作的网页或许视觉效果不错，可一旦移植到网站或者使用另外的浏览器就会出现排版错位和样式错误。相比之下，基于代码的html页面设计更费时，但是具有很好的可移植性。就像这次实验，我花了大量的时间进行各种浏览器的兼容调试，很重要的几点如使用相对定位和百分比尺寸，还有一些尺寸单位的妙用，只有做好了这些才是一个美观的网页的应具备的基本要求。除此之外，现在有许多开源的框架（如Vue, NodeJs, React）和现成的样式库，使得开发人员可以把重心放在网页设计与组合上，从这些框架内部的样式设计也可以学到很多东西。所以我对这次学习Html+Css+Javascript网页制作的期待就是，首先通过这一次作业，基于完全手写的Html代码深入理解网页应该如何设计与组织，以及如何利用Css和Javascript美化网页，之后从一些常用模板(如Markdown+Jekyll， Markdown+Hexo）,学习专业网页设计的思路，也发挥自己的创造力，维护一个漂亮的个人日志界面。<br><img src="//wenweithu.github.io/2019/07/31/前端小学期-网页设计篇/img2.png" alt="img"></p>
-<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>最后,希望自己在这个暑假学有所得,关于网页设计的知识多而复杂,所以只有将学习和实战结合才会有所收获,希望老师和助教可以分享一些更高层面的前端设计理念,让我们一边学习,一边实战,利用学到的知识,不断完善自己的网页,并通过这个主页记录自己的成长!</p>
+        <p><em>本文为原生JS实现的网页树形列表组件的实验文档</em></p>
+<h2 id="实现效果"><a href="#实现效果" class="headerlink" title="实现效果"></a>实现效果</h2><p><img src="//wenweithu.github.io/2019/08/01/前端小学期-前端组件设计/img1.png" alt="img"></p>
+<center>实现效果</center>
+
+<hr>
+<p><img src="//wenweithu.github.io/2019/08/01/前端小学期-前端组件设计/img2.png" alt="img"></p>
+<center>目标效果</center>
+
+<hr>
+<p><strong>一些说明</strong>：根据目标效果和功能，<strong>点击节点右侧的图标控制子节点的收起和展开，点击节点的标题触发回调函数</strong>；同时应用动画过渡和样式渐变，enjoy!</p>
+<h2 id="实现思路与问题解决"><a href="#实现思路与问题解决" class="headerlink" title="实现思路与问题解决"></a>实现思路与问题解决</h2><p>实现树形列表组件的过程主要分为四个阶段：</p>
+<h3 id="1-生成结构"><a href="#1-生成结构" class="headerlink" title="1. 生成结构"></a>1. 生成结构</h3><p>生成树形结构的代码在.js文件中为类方法的generate部分，这里递归地为传入的root元素构建图标和标题和子节点的容器，并为它们初始化样式。这里遇到的主要问题是要先熟悉DOM操作，由于课上讲的DOM操作内容不多，所以课下花了一定的时间学习，在理解了对元素的获取和属性设置等操作之后，这一阶段的工作很快完成。</p>
+<h3 id="2-添加事件"><a href="#2-添加事件" class="headerlink" title="2.添加事件"></a>2.添加事件</h3><p>由于动画部分是最后做的，这一部分主要是给节点图标和标题增加展开与收缩，点击回调事件，这里主要是一些样式的设计和DOM操作的扩展，如获取元素的孩子元素或者双亲节点，样式更改等，课件上也有很多范例可以学习，所以没有遇到什么太大的问题。</p>
+<h3 id="3-动画过渡"><a href="#3-动画过渡" class="headerlink" title="3. 动画过渡"></a>3. 动画过渡</h3><p>这部分花了大量的时间，一开始我尝试使用setInterval等方法，想直接根据时间改变列表高度，但尝试多次发现这种方法只能用于一些可以固定高度的元素（如div），在ul和li原始内部的height属性是没有初始化的，而初始化时又不能直接设置height，因为输入root是未知参数，而且美观性也不好。我还尝试了其他方法，如设置maxHeight等，最后发现结果没有什么太大的变化。之后我又学习了一波css的transition，想利用css的样式过渡直接达到这个效果，但是transition的应用范围实在太小，过渡的目标只有在伪类之间，依然无法用于ul子元素的展开和收缩。所以动画过渡这部分一直困扰了我很长时间，直到我发现一个css3强大的功能@keyframes规则，通过 @keyframes 规则，能够创建动画。创建动画的原理是，将一套 CSS样式逐渐变化为另一套样式。在动画过程中，还能够多次改变这套CSS 样式。并以百分比来规定改变发生的时间，再使用trasnform: scale样式对元素的视觉显示进行变换。尽管trasnform: scale不改变文件流，也就是元素占用的空间不改变，但只要再动画的最后使用display:none加上一些时间控制条件便可巧妙地解决此问题，而且也方便展开或收起的条件判断。所以最后终于解决了动画过渡的问题，可喜可贺。</p>
+<h3 id="4-样式优化"><a href="#4-样式优化" class="headerlink" title="4. 样式优化"></a>4. 样式优化</h3><p>完成了所有结构性工作后，剩下就是尽量美化组件细节和考虑用户体验了。我的设计思路是：在节点图标上，非叶节点展开和收缩时不同的箭头朝向是给用户提示的重要功能，叶节点图标则用小圆点，使风格整齐划一，这里要尽量简洁，不能喧宾夺主，而若要点击节点图标进行展开时，图标又不能显示地过小，所以采用了悬停样式改变为按钮的方法，并为其增加阴影以凸显立体感。节点标题初始，悬停，点击颜色尽量相近，但也要凸出一些区别，这是我从iView上的其他组件设计上提取的一些相似性。在这些基础上代码风格尽量简明易懂，样式根据：‘组件-状态-功能’的格式命名。以追求不断的完善。</p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>此次组件的设计用时一天，原本因为设计组件而已，不需要很多时间，但做着做着感觉一个组件设计确实是很费工夫的，然而通过这个组件的设计我也进一步了解了JS这门语言的使用和熟悉了DOM操作，尽管遇到了许多问题，但最后都还是一一解决了，最终设计出来也很有成就感，感觉收获非常大。</p>
 
       
     </div>
@@ -467,7 +480,7 @@
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
     
-    <a href="http://wenweithu.github.io/2019/07/31/前端小学期-网页设计篇/" title="前端小学期|网页设计篇">http://wenweithu.github.io/2019/07/31/前端小学期-网页设计篇/</a>
+    <a href="http://wenweithu.github.io/2019/08/01/前端小学期-前端组件设计/" title="前端小学期|前端组件设计">http://wenweithu.github.io/2019/08/01/前端小学期-前端组件设计/</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fa fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！</li>
@@ -487,8 +500,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2019/07/31/hello-world/" rel="next" title="Hello World">
-                <i class="fa fa-chevron-left"></i> Hello World
+              <a href="/2019/07/31/前端小学期-Koa后端与API实现/" rel="next" title="前端小学期|Koa后端与API实现">
+                <i class="fa fa-chevron-left"></i> 前端小学期|Koa后端与API实现
               </a>
             
           </div>
@@ -497,8 +510,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2019/07/31/前端小学期-Js学习与OI题解/" rel="prev" title="前端小学期|Js学习与OI题解">
-                前端小学期|Js学习与OI题解 <i class="fa fa-chevron-right"></i>
+              <a href="/2019/08/01/前端小学期-微信小游戏Tango/" rel="prev" title="前端小学期|微信小游戏Tango">
+                前端小学期|微信小游戏Tango <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -660,7 +673,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#对Web前端的理解"><span class="nav-number">1.</span> <span class="nav-text">对Web前端的理解</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#课程期待"><span class="nav-number">2.</span> <span class="nav-text">课程期待</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#结语"><span class="nav-number">3.</span> <span class="nav-text">结语</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#实现效果"><span class="nav-number">1.</span> <span class="nav-text">实现效果</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#实现思路与问题解决"><span class="nav-number">2.</span> <span class="nav-text">实现思路与问题解决</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-生成结构"><span class="nav-number">2.1.</span> <span class="nav-text">1. 生成结构</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-添加事件"><span class="nav-number">2.2.</span> <span class="nav-text">2.添加事件</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-动画过渡"><span class="nav-number">2.3.</span> <span class="nav-text">3. 动画过渡</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#4-样式优化"><span class="nav-number">2.4.</span> <span class="nav-text">4. 样式优化</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#结语"><span class="nav-number">3.</span> <span class="nav-text">结语</span></a></li></ol></div>
             
 
           </div>
