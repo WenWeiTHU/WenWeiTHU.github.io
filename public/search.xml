@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2019/12/22/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2019/12/22/%E8%BD%AF%E5%B7%A5-Cosine%E9%A1%B9%E7%9B%AE%E4%B8%AA%E4%BA%BA%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="Cosine项目个人总结"><a href="#Cosine项目个人总结" class="headerlink" title="Cosine项目个人总结"></a>Cosine项目个人总结</h1><p>2019.12.22</p>
+<p>年末已至，在整个团队的努力下，我们如期完成了Cosine(可赛)大学生竞赛平台项目。大家没有拖沓，也没有想着”内卷“，从容地结束了这个项目。就最终交付的结果而言，我们是满意的，是问心无愧的，我对团队里的每一个人，都带着一份感谢与崇敬。</p>
+<p>早在之前，就听闻软工的工作量之大。Github上整个团队近800次的commit和issue看板，展示着我们团队为这个项目灌注的心血。选题调研，需求分析，原型设计，代码构建，部署测试，这些环节我们一步步走过，在这个过程中，我们磨练了技术，收获了经验，增进了感情。</p>
+<p>一路走来，我们解决一个又一个技术难题。前后端分离、服务端渲染、同源跨域、反向代理、持续集成……这些原本陌生的名词，已经变成讨论会上的常客。从小心翼翼地写着Javascript，到完成时前端近一万行的代码，从第一次接触Vue，到看遍Nuxt的文档，学会了从容配置travis和nginx，技术或许就是这样，无他，唯手熟尔。开发的过程是曲折的，有时我会因为一个服务端Cookie保存的问题卡上好几天，也有时也会前端的排版不够美观反复校正，为数据的合法性”斤斤计较“，有时会因为不了解SSR，导致部署nginx和升级https时走许多弯路。虽然很辛苦，我也从来没有放弃搜寻问题的解决方法，因为团队里的每一个人都在坚持着，期盼着下一次的运行能看到一点希望的曙光。</p>
+<p>我很感谢Cosine team的每一名成员，大家都对这个项目投入了巨大的精力。作为组长，家成是一个非常有责任心的人，协调了很多组内工作，作为一名前端成员，他也具有非常出色的设计才能。季逸飞同学相当认真可靠，每次都能高效地完成开会时指定的任务，无论是业务逻辑还是边界情况都考虑的十分周到，还经常帮忙一起解决前端遇到的难题。刘薇是一名非常热情踏实的成员，面对前端经常修改的需求，她总是不辞辛苦，在第一时间完成，也任劳任怨地承担了许多代码之外（需求获取，演示视频剪辑等）的工作。</p>
+<p>也许我们的项目不是最完美的，也许我们的数据库不是最优的，也许我们的commit不是最优雅的，但唯有一点，我们对自己的提升，无论是技术上还是团队协作，沟通能力上，都是最大的。我时常自己一遍一遍地浏览着网页，一次次修改着文档，有时是为了寻找可能存在的漏洞，有时仅仅只是漫无目的地体验着，我一点点地看着我们的网站从一个简单的登陆注册页面，到一个丰富美观，事务详尽的网站，这种成就感，也许是我作为一名程序员一直坚持下来的理由。</p>
+<p>我想，没有上过软工课，就不能说自己是软件学院的学生。我时常想，从大一大二那些纷繁复杂的必修和专业课上，我到底学到了什么。也许是知识，也许是经验，又或许只是做题的技巧，或许只是五花八门的API。到了工作或者科研的岗位上，能在脑海里留下来的，还有什么。但经过软工这门课，我收获的不只是技术，有与人沟通的方法，有应对挫折的能力，是忙碌的大学生活中一次难能可贵的体验。</p>
+<p>最后，感谢Cosine team的每一位成员，感谢软工课的老师和助教们，谢谢你们。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>前端小学期|微信小游戏Tango</title>
+    <url>/2019/08/01/%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/</url>
+    <content><![CDATA[<blockquote>
+<p><em>Author: Wenwei. Mark Liu</em></p>
+</blockquote>
+<blockquote>
+<p>Github: <a href="https://github.com/WenWeiTHU/Tango" target="_blank" rel="noopener">https://github.com/WenWeiTHU/Tango</a></p>
+</blockquote>
+<p><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img1.jpg" alt="img"></p>
+<center>小程序码（体验版，如需要体验请联系作者）</center>
+
+
+
+<h2 id="项目结构"><a href="#项目结构" class="headerlink" title="项目结构"></a>项目结构</h2><blockquote>
+<p>Assets:</p>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>Prefab(预制资源)</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>Resource</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>Anim（动画资源）</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>Audio（音效资源）</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>  Frames（动画帧资源）</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>Img（静态图片资源）</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>Ttf（字体资源）</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>Scene（场景资源）</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<blockquote>
+<p>Scripts（脚本资源）</p>
+</blockquote>
+</blockquote>
+<h2 id="开发环境"><a href="#开发环境" class="headerlink" title="开发环境"></a>开发环境</h2><p><strong>操作系统</strong>： Windows 10 Pro Education</p>
+<p><strong>编程语言</strong>： Javascript(ES6)</p>
+<p><strong>游戏引擎</strong>：Cocos Creator v 2.0.10</p>
+<p><strong>版本控制</strong>：Github</p>
+<p><strong>发布环境</strong>：微信开发者工具 Stable v1.02.1904090</p>
+<h2 id="分工情况"><a href="#分工情况" class="headerlink" title="分工情况"></a>分工情况</h2><p>我们在Github上使用了两个分支</p>
+<p><strong>Wenwei</strong>：（master分支），摇杆移动控制，主角链接实现，技能；敌机类设计，继承，运动，攻击；镜头跟随，镜头切换，镜头过渡；动画效果，音效；无限模式，游戏数值调试，帮助向导，剧情设计，关卡设计（7-12关）；分包加载。</p>
+<p><strong>Mark Liu</strong>：（map分支）碰撞检测及回调，边界检测；地图类（含炮台）实现，分辨率适配；UI设计（角色图片，按钮，加载页和logo）；物理效果模拟；关卡设计（1-6关），模式选择界面；场景切换和本地存档，游戏暂停，排行榜。</p>
+<h2 id="游戏概述"><a href="#游戏概述" class="headerlink" title="游戏概述"></a>游戏概述</h2><p><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img2.png" alt="img"></p>
+<center>游戏图标</center>
+
+<p><strong>名称</strong>：Tango（中文名：探格）</p>
+<p><strong>说明</strong>：</p>
+<p>探格Tango是一款基于cocos引擎开发的、单人离线休闲小游戏。在游戏中，玩家需要操作两个操纵杆，控制两部战机移动，并使用战机中间的闪电链接击杀敌人。</p>
+<p>游戏有两个模式，分别是闯关模式和生存模式。在闯关模式中，玩家消灭场景中所有的敌人并到达目标点即可通关。在生存模式中，地图中会不断产生各种类型的敌人，玩家需要不断击杀敌人并保持自己的生存，最后游戏会以玩家的生存时间作为玩家的战绩。</p>
+<p>探格Tango取材自Android弹幕游戏PewPew，并在PewPew的基础上进行了一定程度的改变，并新增了一些自创特性和玩法。整体设计风格充满科幻与电子气息，图片素材均为自主设计，精心打磨。游戏开始还有帮助场景使玩家快速融入游戏，还在游戏中穿插了一些有趣的彩蛋等待玩家发现。</p>
+<p><strong>设计理念：</strong></p>
+<p>游戏设计之初，我们计划做一款相对休闲的战机类游戏，考虑到基于射击与弹幕的游戏过于俗套，而且也并不适合微信小游戏开发的风格。我们突发奇想，结合之前玩过的一款名为Pewpew的游戏中的一个模式，打算做一款完全不基于射击而是着重于双手协调的休闲游戏。我们给游戏起名为Tango，即探戈，它是一种源自阿根廷的双人舞蹈，作为双人舞蹈，其讲究男女之间的配合和舞步协调，我们的游戏也是如此，玩家通过左右两个操纵杆同时控制两架战机，通过灵活的走位躲避敌人的攻击，并通过战机之间的牵引电流消灭敌人。</p>
+<p><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3.png" alt="img"></p>
+<center>游戏截图</center>
+
+
+
+<h2 id="游戏元素"><a href="#游戏元素" class="headerlink" title="游戏元素"></a>游戏元素</h2><p>游戏元素主要分为四类，主角类，敌机类，地图类，渲染类：</p>
+<p>l  角色控制（主角的位置移动，护盾生成等）与主角的显示（尺寸，状态，生命）分离。</p>
+<p>l  敌机类继承自Enemy的Prefab，有着丰富的接口用与游戏难度的调整。</p>
+<p>l  地图类MapH，MapV分别做为水平和垂直墙体元素，通过尺寸调整，构成了丰富的地图。</p>
+<p>l  渲染类主要是实现音效，动画和相机的特殊效果。</p>
+<h2 id="玩法说明"><a href="#玩法说明" class="headerlink" title="玩法说明"></a>玩法说明</h2><p>l  开始界面Help按钮导向帮助向导界面，建议玩家先从Help界面学习基础操作。</p>
+<p>l  开始界面Start导向模式选择界面：</p>
+<p><strong>生存模式(Survive)</strong>：玩家需要保护好自己的两架战机，用战机之间的连接消灭敌人，生存时长显示在左上方，可以随时选择暂停或返回主界面，随着时间的推移，敌机的攻击方式越来越多样，难度也会逐渐变高。当任何一架战机血量低于0时，游戏结束，<strong>以生存的时长作为游戏的最终得分</strong>。游戏结束后可在Ranking界面看到自己历史最高分。</p>
+<p><strong>闯关模式（Battle）</strong>：玩家可以进行选关，每通过一关会解锁下一关，即使玩家在中途返回主界面，通关信息也会保存。一共设计了循序渐进的12个关卡，通关的条件是<strong>消灭场景中存在的所有敌人，随后找到场景中的目标点，到达目标点即可通关</strong>。</p>
+<p><strong>图例说明：</strong></p>
+<table>
+<thead>
+<tr>
+<th><strong>名称</strong></th>
+<th><strong>图标</strong></th>
+<th><strong>说明</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Enemy</strong></td>
+<td><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3_1.png" alt="img"></td>
+<td>以自转姿态运动，按初始设定的方向移动，碰到墙体反弹，主角碰撞后扣血（可被护盾抵挡），碰到链接后消失，以下敌人攻击方式均包含此类。</td>
+</tr>
+<tr>
+<td><strong>Enemy_static</strong></td>
+<td><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3_2.png" alt="img"></td>
+<td>往往不会运动，被链接破坏后按一定速度向周围发射一定数目的Bullet。</td>
+</tr>
+<tr>
+<td><strong>Enemy_spin</strong></td>
+<td><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3_3.png" alt="img"></td>
+<td>以主角为原点做圆周运动，半径恰为主角之间链接长度（即不做出反应便会撞向另一侧的主角）。</td>
+</tr>
+<tr>
+<td><strong>Enemy_swing</strong></td>
+<td><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3_4.png" alt="img"></td>
+<td>常以整齐队列的形式移动，周期与位移可调。</td>
+</tr>
+<tr>
+<td><strong>Enemy_track</strong></td>
+<td><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3_5.png" alt="img"></td>
+<td>具备追踪能力的敌机，初始速度较慢，会不断加速。</td>
+</tr>
+<tr>
+<td><strong>Enemy_Copter</strong></td>
+<td><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3_6.png" alt="img"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3_7.png" alt="img"></td>
+<td>向主角定向发射一定数量的Bullet。属于地图类敌机，不可被破坏，主角碰撞与碰撞墙体类似。</td>
+</tr>
+<tr>
+<td><strong>Bullet</strong></td>
+<td><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3_8.png" alt="img"></td>
+<td>子弹，主角碰撞会扣血（可被护盾抵挡），只有碰到墙体或主角会消失，碰到链接不会消失。</td>
+</tr>
+<tr>
+<td><strong>Player</strong></td>
+<td><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3_9.png" alt="img"></td>
+<td>正确消灭敌机的方法是用主角之间的电流，若敌人直接碰到主角会扣血，随后主角有三秒中的无敌时间，两架战机中任何一架血量低于0则游戏结束。</td>
+</tr>
+<tr>
+<td><strong>Supply</strong></td>
+<td><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3_10.png" alt="img"> <img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8FTango/img3_11.png" alt="img"></td>
+<td>主角触碰后相应地增加生命或护盾数</td>
+</tr>
+</tbody></table>
+<h2 id="特色功能"><a href="#特色功能" class="headerlink" title="特色功能"></a>特色功能</h2><h3 id="1-与众不同的玩法"><a href="#1-与众不同的玩法" class="headerlink" title="1.与众不同的玩法"></a>1.与众不同的玩法</h3><p>想到战机游戏，往往会联想到射击和躲避子弹；想到双手摇杆，往往会想到控制移动和技能操作。我们的游戏Tango打破了这一常规，用纯粹的摇杆控制移动和战机链接电流消灭敌人的方法，更考验了玩家的双手配合能力，而且入门门槛低，适合各年龄段的玩家。</p>
+<h3 id="2-相机跟随与地图设计"><a href="#2-相机跟随与地图设计" class="headerlink" title="2.相机跟随与地图设计"></a>2.相机跟随与地图设计</h3><p>为了达到更好的用户体验和真实的战机操作感，本游戏在游戏摄像机上做了深入的尝试，不但为战机添加了镜头跟随功能，还扩展了各式各样的全局地图，游戏地图均为自主设计，我们还为每个地图关卡起了符合其特色的名称，保证游戏流畅性的同时，也尽量传达出我们想通关这款游戏给玩家传达的故事。</p>
+<h3 id="3-过渡界面与相机缩放"><a href="#3-过渡界面与相机缩放" class="headerlink" title="3.过渡界面与相机缩放"></a>3.过渡界面与相机缩放</h3><p>如上一条所言。我们在游戏摄像机上做了深入尝试，当然不止于相机跟随，在一个普通场景中，我们设置了4台摄像机：UI Camera, Designer Camera, MapCamera, Main Camera，为了解决操纵杆触点的坐标系问题，我们专门使用了分离的两个相机：UICamera用于渲染所有UI元素，Main Camera用于渲染游戏元素节点，Designer Camera是我们在地图设计时可以用方向键控制的移动相机，MapCamera用于界面切换时的相机缩放，为了达到连贯的游戏效果，我们借鉴了Pewpew的关卡过渡方法，在每个场景开始时会给我们设计的地图一个全局特写，然后镜头拉近直到我们的主角位于镜头中心，同样的，场景结束时同样会有此效果，一来让场景切换不显得那么突兀，二来让玩家在场景开始时对地图有个大致的认识。</p>
+<h3 id="4-动画效果与图片光影"><a href="#4-动画效果与图片光影" class="headerlink" title="4.动画效果与图片光影"></a>4.动画效果与图片光影</h3><p>Tango的静态图片素材均是我们自己手工设计的。游戏整体走科幻风格路线，偏几何简约风格的游戏元素，再搭配上赛博朋克的音乐，使得整个游戏主题一致。观感上，我们采用主色调为黑色的背景，配上打上高斯模糊的主角，营造出发光的效果。游戏中使用了丰富的动画效果，动画素材是在giphy这个专业动图网站上精心挑选的，每一帧图像都要先经过透明化处理后才能使用，虽然很费时间，但是为了做出令人满意的游戏，我们认为这是值得的。</p>
+<h2 id="设计难点"><a href="#设计难点" class="headerlink" title="设计难点"></a>设计难点</h2><h3 id="1-摇杆操纵"><a href="#1-摇杆操纵" class="headerlink" title="1.摇杆操纵"></a>1.摇杆操纵</h3><p>由于cocos没有自带的摇杆组件，所以在实现摇杆操作上费了一番功夫，其本质是通过摇杆圈（ring）和摇杆点（stick）的相对位置获得方向和速度大小，然后绑定到对应的主角身上。一开始由于对cocos的父子节点的坐标系统不是十分清楚，加之相机跟随导致的触点坐标非场景坐标的问题，所以绕了不少弯路。这一问题直到使用了多组相机分别渲染的方式才得以解决。</p>
+<p>摇杆控制的另一个难点在于运动感的模拟。我们一开始的解决方案是在摇杆对象的更新中对主角的位置进行更新，但是这样带来的问题是在主角和地图边界发生碰撞时，难以阻止主角穿越边界。后来，我们在主角对象中加入了加速度和速度属性，在摇杆的更新中，只对主角的速度进行更新。在主角对象的更新中，才根据速度来对主角的位置进行更新。此外，我们还在主角对象中加入了阻力项，在每帧的更新中主角的速度会衰减为原来的99%。我们在电脑上使用模拟器模拟时，发现这样做的话战机移动非常逼真，我们一度非常满意。但后来在手机上进行调试时，我们发现战机虽然移动的非常真实，但是操纵感非常差。于是我们参考了现有的操纵感比较好的游戏（如PewPew、王者荣耀等），<strong>发现他们的操纵是移动操纵杆即开始移动（即无加速过程），停下操纵杆移动即停止（即无减速过程）</strong>，且碰到墙以后是只有沿着墙壁方向的速度（即无反弹）。于是我们设计出了现在这一套速度系统。</p>
+<h3 id="2-主角链接"><a href="#2-主角链接" class="headerlink" title="2.主角链接"></a>2.主角链接</h3><p>Tango的玩法核心是通过主角间的链接消灭敌人，所以在链接的处理上我们花了较大功夫，一是链接的角度和长度要与两个主角适配，这要求我们对cocos的坐标系统有着深入的了解；二是链接的拉伸效果，链接本身具有弹力属性，在玩家不操作时，主角将会会到平衡位置，而且在场景内需要存在一定阻力，否则两主角会不停做简谐运动，这很影响游戏体验，并且链接用到的图像不能简单套用尺寸变化的模板，图像变形严重，所以我们使用Tiled和animation结合的方法，想出这个方法时，我们都觉得非常巧妙（这在背景图的处理也有所体现），使得链接就像从主角之间自然牵引出来的一样。</p>
+<h3 id="3-敌机设计"><a href="#3-敌机设计" class="headerlink" title="3.敌机设计"></a>3.敌机设计</h3><p>敌机的运动上我们尝试了多种方式，包括直线加速，圆周运动，螺旋线和cocos自带的runAction，在设计时，我们也为敌机运动开放了多个可调的接口，可以设定敌人的各种运动参数（运动半径、运动速度、运动距离等），便于设计者完成游戏场景的设计。一方面所有敌机都是prefab,充分利用敌机的共同特征，另一方面采用了继承，使得我们的代码复用性强，敌机可调节范围广。</p>
+<h3 id="4-地图与相机"><a href="#4-地图与相机" class="headerlink" title="4.地图与相机"></a>4.地图与相机</h3><p>在这个游戏中，我们使用的地图中边界都只有两个方向：纵向和横向。通过对这两种边界的组合，我们设计出了总共12个不同的地图，并分别在12个关卡中得到使用。</p>
+<p>地图边界为细长的长方体，并且使用了Cocos提供的矩形包围盒。当玩家与地图边界发生碰撞时，会调用玩家对象的onCollisionEnter函数。在这个函数中，我们让玩家对象向撞击方向的反方向后退一定距离，防止玩家冲出地图边界。</p>
+<p>地图的设计是在Cocos Creator中完成的，我们将地图的边界制成Prefab，并在设计窗口中，将边界拖到场景内进行调整。</p>
+<p>如前所述，Tango中广泛用到了相机，这是得益于之前学过一段时间的AE。本质上相机的作用是在有限的显示空间中发掘出游戏的更多视角，其实对于一个第三人称射击类游戏来说，相机跟随并不是必要的，但为了满足地图设计的需要和更好的用户体验，我们认为这是不可或缺的。</p>
+<p>在机型适配上，由于我们一开始就选择了横屏界面，所以避免了“刘海屏”或相机头遮挡的问题；我们使用全局地图，所以不用考虑不同机型的尺寸的显示问题（主相机拍摄到的完全占满手机显示空间），用UI相机专门渲染UI界面（摇杆，按钮等），所以我们只需对所有游戏场景重复一套相对布局的UI界面即可解决适配问题。</p>
+<h3 id="5-动画音效"><a href="#5-动画音效" class="headerlink" title="5.动画音效"></a>5.动画音效</h3><p>在动画上，我们没有使用cocos的粒子系统和拖尾效果，一是资源包大小的限制，二是我们觉得风格不符，我们使用了最基本的animation clip，把优秀的动画用在最常见的地方。在音效上，我们对背景音乐和游戏音效采取了不同的处理方式，由于我们的游戏节奏较快，采取的是切换场景但背景音乐不重播的方式，并且由于资源大小的限制，我们适当地对背景音乐做了剪辑。</p>
+<h3 id="6-场景切换"><a href="#6-场景切换" class="headerlink" title="6.场景切换"></a>6.场景切换</h3><p>UI系统主要包括三个场景，即开始菜单（startMenu）、模式选择（modeSelect）、关卡选择（stageSelect）。每个场景中的对象都只有按钮（Button），我们使用了Cocos提供的Button类，所以对Button的底层实现不需要进行关注。我们在每个场景的总控制器中（和Canvas相关联），对每个Button添加了监听事件。当具体的Button被按下时，我们会触发相应的事件，一般为场景切换。</p>
+<p>我们还在场景切换的过渡中选择了镜头拉伸的过渡方式，看上去简单，实际上需要很多次的调试和精确的计算才能达到此效果，由于地图的不同，我们需要为各个场景调试不同的过渡时间的过渡初末方位。在闯关模式里我们还采用了一层层解锁的方式鼓励玩家探索，我们希望用这种循序渐进的方式让玩家一边熟悉操作，一边保证玩家的兴趣。</p>
+<h3 id="7-本地存档"><a href="#7-本地存档" class="headerlink" title="7.本地存档"></a>7.本地存档</h3><p>谈到场景切换，不得不提到本地存档，因为游戏中需要记录玩家的通关情况，即使玩家中途退出，这些信息也应该保留。在游戏关卡选择中，以及游戏场景的结束后的过渡场景中，我们需要知道关卡信息（上一关的关卡信息、某一关是否通关等等）。原本我们想要通过在本地储存一个log.json文件，使用这一文件进行信息储存。但是我们后来发现，使用浏览器端的JavaScript对本地文件进行读写较为复杂，并且发现Cocos提供了一个cc.sys.localStroage的API，通过类似哈希表的方式可以实现本地存储，因此我们使用了这一个API作为我们本地信息存储的方式。</p>
+<p>我们还用同样的方法对玩家的历史最高分进行了记录，在无尽模式结束后，玩家点击下方的Ranking按钮即可看到自己排名前三的得分。该内容存储在用户本地，即使退出游戏，再次上线时，记录依然会保留。</p>
+<h2 id="游戏测试"><a href="#游戏测试" class="headerlink" title="游戏测试"></a>游戏测试</h2><p>我们在设计通关模式之初就对游戏的难度和可玩性进行大量的测试，对于游戏的难度我们请了自己的室友进行试玩，在确认关卡设计的合理性之后（主要是保证游戏能够全关通过）。我们对请了很多不同机型的用户进行试玩，包括在安卓机和苹果机，ipad上的运行。由于在设计之初就考虑了适配问题，并选择合适的方法进行解决，在机型适配上没有遇到太大的问题。</p>
+<p>之后我们将游戏交给体验员进行测试，一天之后我们得到很多重要的反馈，包括地图的卡墙问题，操纵杆的颜色对应，操纵杆在相机的呈现层级等，这些都是我们一开始没有想到的问题。感谢体验员的耐心试玩，让我们可以把Tango做的更优秀。</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p> 这一次项目是我们进入大学以来第三次制作游戏。和前两次制作游戏不同的是，我们使用了成熟的游戏框架，并且使用github进行合作和版本控制。在有了游戏框架的帮助以后，我们发现很多基础的工作，例如碰撞检测、素材绑定、场景和各个素材的关系等，已经不需要自己操心，而是有现成的API可以进行调用。并且，有了框架的帮助以后，我们在开发中遇到的很多问题都可以在网络上和使用同样框架的程序员们进行探讨，同时也有很多前人的技术博客可供参考（这也显示了写技术博客的重要性）。</p>
+<p>总的来说，通过这一次作业，我们对JavaScript的很多特性有了更加深入的理解，对Cocos框架有所了解。同时，我们也对游戏制作有了更加丰富的认识。如何制作游戏，使得游戏更具趣味性和可玩性是我们一直在思考和讨论的问题。在近两周的开发过程中，我们深感游戏开发的不易和困难，在这里也向那些优秀的游戏的设计师和开发者表示敬意。</p>
+<p>感谢助教和老师的帮助，也感谢奇舞团的前辈们。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>前端小学期|前端组件设计</title>
+    <url>/2019/08/01/%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%89%8D%E7%AB%AF%E7%BB%84%E4%BB%B6%E8%AE%BE%E8%AE%A1/</url>
+    <content><![CDATA[<p><em>本文为原生JS实现的网页树形列表组件的实验文档</em></p>
+<blockquote>
+<p>Github: <a href="https://github.com/WenWeiTHU/tree-folder" target="_blank" rel="noopener">https://github.com/WenWeiTHU/tree-folder</a></p>
+</blockquote>
+<h2 id="实现效果"><a href="#实现效果" class="headerlink" title="实现效果"></a>实现效果</h2><p><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%89%8D%E7%AB%AF%E7%BB%84%E4%BB%B6%E8%AE%BE%E8%AE%A1/img1.png" alt="img"></p>
+<center>实现效果</center>
+
+<hr>
+<p><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E5%89%8D%E7%AB%AF%E7%BB%84%E4%BB%B6%E8%AE%BE%E8%AE%A1/img2.png" alt="img"></p>
+<center>目标效果</center>
+
+<hr>
+<p><strong>一些说明</strong>：根据目标效果和功能，<strong>点击节点右侧的图标控制子节点的收起和展开，点击节点的标题触发回调函数</strong>；同时应用动画过渡和样式渐变，enjoy!</p>
+<h2 id="实现思路与问题解决"><a href="#实现思路与问题解决" class="headerlink" title="实现思路与问题解决"></a>实现思路与问题解决</h2><p>实现树形列表组件的过程主要分为四个阶段：</p>
+<h3 id="1-生成结构"><a href="#1-生成结构" class="headerlink" title="1. 生成结构"></a>1. 生成结构</h3><p>生成树形结构的代码在.js文件中为类方法的generate部分，这里递归地为传入的root元素构建图标和标题和子节点的容器，并为它们初始化样式。这里遇到的主要问题是要先熟悉DOM操作，由于课上讲的DOM操作内容不多，所以课下花了一定的时间学习，在理解了对元素的获取和属性设置等操作之后，这一阶段的工作很快完成。</p>
+<h3 id="2-添加事件"><a href="#2-添加事件" class="headerlink" title="2.添加事件"></a>2.添加事件</h3><p>由于动画部分是最后做的，这一部分主要是给节点图标和标题增加展开与收缩，点击回调事件，这里主要是一些样式的设计和DOM操作的扩展，如获取元素的孩子元素或者双亲节点，样式更改等，课件上也有很多范例可以学习，所以没有遇到什么太大的问题。</p>
+<h3 id="3-动画过渡"><a href="#3-动画过渡" class="headerlink" title="3. 动画过渡"></a>3. 动画过渡</h3><p>这部分花了大量的时间，一开始我尝试使用setInterval等方法，想直接根据时间改变列表高度，但尝试多次发现这种方法只能用于一些可以固定高度的元素（如div），在ul和li原始内部的height属性是没有初始化的，而初始化时又不能直接设置height，因为输入root是未知参数，而且美观性也不好。我还尝试了其他方法，如设置maxHeight等，最后发现结果没有什么太大的变化。之后我又学习了一波css的transition，想利用css的样式过渡直接达到这个效果，但是transition的应用范围实在太小，过渡的目标只有在伪类之间，依然无法用于ul子元素的展开和收缩。所以动画过渡这部分一直困扰了我很长时间，直到我发现一个css3强大的功能@keyframes规则，通过 @keyframes 规则，能够创建动画。创建动画的原理是，将一套 CSS样式逐渐变化为另一套样式。在动画过程中，还能够多次改变这套CSS 样式。并以百分比来规定改变发生的时间，再使用trasnform: scale样式对元素的视觉显示进行变换。尽管trasnform: scale不改变文件流，也就是元素占用的空间不改变，但只要再动画的最后使用display:none加上一些时间控制条件便可巧妙地解决此问题，而且也方便展开或收起的条件判断。所以最后终于解决了动画过渡的问题，可喜可贺。</p>
+<h3 id="4-样式优化"><a href="#4-样式优化" class="headerlink" title="4. 样式优化"></a>4. 样式优化</h3><p>完成了所有结构性工作后，剩下就是尽量美化组件细节和考虑用户体验了。我的设计思路是：在节点图标上，非叶节点展开和收缩时不同的箭头朝向是给用户提示的重要功能，叶节点图标则用小圆点，使风格整齐划一，这里要尽量简洁，不能喧宾夺主，而若要点击节点图标进行展开时，图标又不能显示地过小，所以采用了悬停样式改变为按钮的方法，并为其增加阴影以凸显立体感。节点标题初始，悬停，点击颜色尽量相近，但也要凸出一些区别，这是我从iView上的其他组件设计上提取的一些相似性。在这些基础上代码风格尽量简明易懂，样式根据：‘组件-状态-功能’的格式命名。以追求不断的完善。</p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>此次组件的设计用时一天，原本因为设计组件而已，不需要很多时间，但做着做着感觉一个组件设计确实是很费工夫的，然而通过这个组件的设计我也进一步了解了JS这门语言的使用和熟悉了DOM操作，尽管遇到了许多问题，但最后都还是一一解决了，最终设计出来也很有成就感，感觉收获非常大。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>前端小学期|Koa后端与API实现</title>
+    <url>/2019/07/31/%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-Koa%E5%90%8E%E7%AB%AF%E4%B8%8EAPI%E5%AE%9E%E7%8E%B0/</url>
+    <content><![CDATA[<p><em>本文为基于Koa实现的静态文件访问和API功能网站的实验文档</em></p>
+<blockquote>
+<p>Github: <a href="https://github.com/WenWeiTHU/koa-website" target="_blank" rel="noopener">https://github.com/WenWeiTHU/koa-website</a></p>
+</blockquote>
+<h2 id="服务器（已于2019-8-1关闭）"><a href="#服务器（已于2019-8-1关闭）" class="headerlink" title="服务器（已于2019.8.1关闭）"></a>服务器（已于2019.8.1关闭）</h2><blockquote>
+<p>IP: 152.136.227.192</p>
+</blockquote>
+<blockquote>
+<p>端口: 8000</p>
+<p>Token: ELSKBLXKYVPXQWLTMIPCJEFPFP</p>
+</blockquote>
+<h2 id="框架选择"><a href="#框架选择" class="headerlink" title="框架选择"></a>框架选择</h2><p>本次实验选择了 Koa 作为 Node 后端框架， 一是它的灵活度比较高， 二是它有不少较为完善的库可以使用。 通过后端平台的搭建， 我对异步函数的执行过程， Koa 中间件的使用， Koa的洋葱模型有了深入的认识。</p>
+<p><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-Koa%E5%90%8E%E7%AB%AF%E4%B8%8EAPI%E5%AE%9E%E7%8E%B0/img1.png" alt="img"></p>
+<h2 id="静态文件服务"><a href="#静态文件服务" class="headerlink" title="静态文件服务"></a>静态文件服务</h2><p>此次作业要求将之前的个人主页搭载到服务器后端上， 使用 koa-static 包就可以了。 它的原理是根据端口请求映射到服务器文件夹的文件路径。这里有一点要注意： staticRouter 会优先响应网站的 router 请求， 如果在代码的其他部分使用了 router， staticRouter 会拦截此请求， 就会导致 api 访问失败， 所以 staticRouter 中间件应该放在最后。</p>
+<h2 id="API-服务"><a href="#API-服务" class="headerlink" title="API 服务"></a>API 服务</h2><p>实现简单计算和数据库访问， 首先要搞明白 ctx 对象的属性， 参数 ctx 是由 koa 传入的封装了 request和 response的变量，我们可以通过它访问 request和 response。再通过 router 对 api 访问进行路由，用不同的函数处理 request 并设置 response。一开始我使用 koa-bodyparser 解析 request 发现 query 为空的现象， 最后 Google发现其不能解析 multipart/form-data 类型。 最后使用 koa-body 来解析， 发现可以 完美解决此问题。 代码中用一个本地数组存储键值对， 并进行相应增删改查。 细节上要注意 token 的先决判断， Content-type 和状态码的设置， 运算结果向下取整和使用 Number()不使用 parserInt()的细节(如 firstParam = 0011)。</p>
+<h2 id="代码风格"><a href="#代码风格" class="headerlink" title="代码风格"></a>代码风格</h2><p>之前一直是用 vscode 的 Beautify File 插件格式化代码， 然后用 eslint 一跑， 发现超多 error， 仔仔细细看了一遍规范， 不得不说， 真是挺严格的！ 包括不让用分 号和两个空格缩进， 最后优化完， 的确挺好看的。 之前一直觉得 JavaScript 就像python 和 C++的融合， 现在看了 eslint 标准的代码风格， 可能 JavaScript 也想走 一条属于自己的路吧。 这也让我注意到一以前没有怎么关注的代码风格， 毕竟程序员们不总是一个人孤军奋战， 好的代码风格可能让团队里其他人更理解你。</p>
+<p><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-Koa%E5%90%8E%E7%AB%AF%E4%B8%8EAPI%E5%AE%9E%E7%8E%B0/img2.png" alt="img"></p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>通过这次 NodeJS 服务开发的实践。 我对 NodeJS 的使用和 JavaScript 的异步特性有了更深的认识。 在 JavaScript 的世界中，所有代码都是单线程执行的， 由于这个“缺陷”，导致 JavaScript 的所有网络操作，浏览器事件，都必须是异步执行。异步执行可以用回调函数实现， 也可以通过 E6 的新特性 async， koa 框架支持 async 和 await 特性， 是一个非常好的入门框架。 除了这些东西之外， 我还了解了网站的工作原理和代码风格的重要性， 最重要的是对 http2 协议有了系统的了解。 前端实验真的能让人学到很多。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>前端小学期|Js学习与OI题解</title>
+    <url>/2019/07/31/%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-Js%E5%AD%A6%E4%B9%A0%E4%B8%8EOI%E9%A2%98%E8%A7%A3/</url>
+    <content><![CDATA[<h2 id="学习心得"><a href="#学习心得" class="headerlink" title="学习心得"></a>学习心得</h2><p>JavaScript是世界上最流行的脚本语言，在电脑、手机、平板上浏览的所有的网页，以及无数基于HTML5的手机App，交互逻辑都是由JavaScript驱动的。Javascript入门很快，但要深入理解却有一定难度。我完完整整看完了廖雪峰大大的Javascript教程，教程内容非常优质，看完我也深感JS是一门神奇的语言，像是C++与Python的结合体，既有着C++的封装性，也有Python的灵活，也难怪广泛运用在H5+Css和各类小游戏设计中了。在Web时代，熟练掌握Javascript可以说是程序员不可或缺的一门技能了。</p>
+<h2 id="OJ平台链接"><a href="#OJ平台链接" class="headerlink" title="OJ平台链接"></a>OJ平台链接</h2><blockquote>
+<p><a href="http://oj.iterator-traits.com" target="_blank" rel="noopener">http://oj.iterator-traits.com</a></p>
+</blockquote>
+<h3 id="DDL"><a href="#DDL" class="headerlink" title="DDL"></a>DDL</h3><p>这道题比较基础，也比较适合新手熟悉js的循环和对象操作。</p>
+<p>我首先想到的是用现成的js对象Date，利用Date封装的方法可以将字符串方便的转换为从1970年到某时刻经过的毫秒数。将输入的ddl和日期按得到的毫秒数进行排序，再根据这个值转换为latedays就行。</p>
+<p>这里可能要注意的是毫秒数过大超过js整数可表示范围的问题，这里经过测试，发现四位数年份之间毫秒数之差依然在js可表示最大整数范围之内，所以在输入范围内，用毫秒数排序是没问题的，除此之外小心一些奇奇怪怪的坑（datetime拼成datatime,lateDays不是latedays）就行。</p>
+<h3 id="迭代器"><a href="#迭代器" class="headerlink" title="迭代器"></a>迭代器</h3><p>这道题我看Generator和yield看了半天，看的我一头雾水，后面仔细想想好像不用那么复杂。把Generator看成一个状态机，想要获得一个tree的先序遍历的迭代器iter，把树先序yield一遍就可以了。然后在实现其接口上，我们已经得到一个iter，每次调用其next(),就会返回一个对象，里面有value和done两个属性，这就可以构成TreeIterator对外的接口了，要注意的是，has_next()不应该有副作用，所以这个方法不应该调用iter的next()，我的方法是，既然Generator是状态机，给TreeIterator新增一个对象iter_state表示当前iter的状态（上一次调用iter.next()的返回对象）就行了。这样在has_next()里面只要返回!done，next_value里面调用iter.next()就行。</p>
+<h3 id="Fmap"><a href="#Fmap" class="headerlink" title="Fmap"></a>Fmap</h3><p>emmm，这道题递归实现就好了。</p>
+<h3 id="运算符定义"><a href="#运算符定义" class="headerlink" title="运算符定义"></a>运算符定义</h3><p>此题让我回想起被数据结构支配的恐惧，之前做过表达式求值的题，相比之下这道题就没有那么难了，而且js可以更简便的实现（终于不用手写栈结构了），思路就是，构造运算式的逆波兰式，可以参考<a href="https://en.wikipedia.org/wiki/Reverse_Polish_notation" target="_blank" rel="noopener">此链接</a>, 再根据逆波兰式求值。</p>
+<p>用栈构造逆波兰式，遍历读取符号和数字，如果当前是数字，直接发送给逆波兰式；如果是符号，‘（’的情况，直接入栈，‘&amp;’的情况，弹出栈顶符号，弹出的符号发送给逆波兰式，直到遇到‘（’，这个‘（’要放回栈中，再把原符号压栈；‘）’的情况，弹出栈顶符号弹出的符号发送给逆波兰式，直到遇到‘（’，这个‘（’不放回栈中。为了保证栈能弹空，最好给一开始的运算符左右加上括号。</p>
+<p>逆波兰式求值，最后得到的逆波兰式只是由数字和符号’&amp;’构成，我们依次找最左端的‘&amp;’，然后将在‘&amp;’左侧的两个数字进行运算，得到的结果替换这两个符号，如此循环，直到逆波兰式中只剩一个数字，即为结果。</p>
+<p>这里要注意的是：数字运算的时候，‘x+y’可能按字符串拼接计算了（手动捂脸），除法之类的元素都向下取整，最后求值要求返回的结果是字符串。注意这几点就没问题了。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>前端小学期|网页设计篇</title>
+    <url>/2019/07/31/%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E7%AF%87/</url>
+    <content><![CDATA[<h2 id="对Web前端的理解"><a href="#对Web前端的理解" class="headerlink" title="对Web前端的理解"></a>对Web前端的理解</h2><p>有一张非常经典的图解释了前端和后台的关系，虽然是调侃，但一个酷炫的前端的确能在第一时间给客户一个良好的印象，网站没有前端效果的支撑，不管后端功能实现如何完善，都不能赢得客户的青睐，甚至是沦为残次品，在竞争激烈的互联网世界，我们越来越偏向于沦为视觉动物，前端效果是一个web网站美感和基本用户体验的灵魂的展现，更是企业实力的呈现。对于网站优化来说，最重要的是网站用户体验度，网站前端设计直接决定了用户体验度的高低。用户体验度是客户的一种纯主观的感受，如何给客户良好的主观感受，就得站在客户的角度考虑问题，阅览内容主题重点突出，视觉效果好，交互趣味性，有效性，增加阅览的愉悦性观赏性，以此达到留住用户的目的，这些都是需要前端效果实现去呈现的。<br><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E7%AF%87/img1.png" alt="img"></p>
+<h2 id="课程期待"><a href="#课程期待" class="headerlink" title="课程期待"></a>课程期待</h2><p>之前上过一些网页设计的基础课程,是使用旧版Adobe Dreamweaver工具制作,有些类似Word的“所见即所得”的设计方法，尽管制作起来很方便，但有一个很大的问题就是兼容性差，在本地制作的网页或许视觉效果不错，可一旦移植到网站或者使用另外的浏览器就会出现排版错位和样式错误。相比之下，基于代码的html页面设计更费时，但是具有很好的可移植性。就像这次实验，我花了大量的时间进行各种浏览器的兼容调试，很重要的几点如使用相对定位和百分比尺寸，还有一些尺寸单位的妙用，只有做好了这些才是一个美观的网页的应具备的基本要求。除此之外，现在有许多开源的框架（如Vue, NodeJs, React）和现成的样式库，使得开发人员可以把重心放在网页设计与组合上，从这些框架内部的样式设计也可以学到很多东西。所以我对这次学习Html+Css+Javascript网页制作的期待就是，首先通过这一次作业，基于完全手写的Html代码深入理解网页应该如何设计与组织，以及如何利用Css和Javascript美化网页，之后从一些常用模板(如Markdown+Jekyll， Markdown+Hexo）,学习专业网页设计的思路，也发挥自己的创造力，维护一个漂亮的个人日志界面。<br><img src="%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%AD%A6%E6%9C%9F-%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E7%AF%87/img2.png" alt="img"></p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>最后,希望自己在这个暑假学有所得,关于网页设计的知识多而复杂,所以只有将学习和实战结合才会有所收获,希望老师和助教可以分享一些更高层面的前端设计理念,让我们一边学习,一边实战,利用学到的知识,不断完善自己的网页,并通过这个主页记录自己的成长!</p>
+]]></content>
+  </entry>
+</search>
