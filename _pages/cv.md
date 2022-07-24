@@ -28,7 +28,7 @@ Awards
 ======
 * Outstanding Papers of Beijing (北京市优秀毕业论文, Top 1%). 2021
 * Outstanding graduates of Beijing (北京市优秀毕业生, Top 1%). 2021
-* Excellent graduates of Tsinghua (清华大学优秀毕业生, Top 5%). 2021
+* Excellent graduates of Tsinghua (清华大学优秀毕业生, Top 1%). 2021
 * Future Scholar Scholarship (未来学者奖学金, Top 1%), Tsinghua University, 2021
 * Boeing Scholarship (波音奖学金, Top 1%), Tsinghua University, 2020
 * Tang Lixin Scholarship (唐立新优秀奖学金, Top 1%), Tsinghua University, 2020
