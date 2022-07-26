@@ -10,7 +10,7 @@ redirect_from:
 
 I ‘m currently a PhD student (from fall, 2021) at the [School of Software](https://www.thss.tsinghua.edu.cn/en/) of [Tsinghua University](https://www.tsinghua.edu.cn/en/) and a member of the [THUML](https://thuml.ai/), advised by Prof. [MingSheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). 
 
-My research interests cover Deep Learning and Transfer Learning. I am currently working on deep model applications for Time Series Forecasting. Previously, I have done researches on the transferability measurement of pretrained models' (PTM). The pursuit of my reasearch is to  implement deep learning methodology to valuable real-world applications.
+My research interests cover Deep Learning and Transfer Learning. I am currently working on deep model applications for Time Series Forecasting. Previously, I have done researches on the transferability measurement of pretrained models (PTM). The pursuit of my reasearch is to implement deep learning methodology to valuable real-world applications.
 
 For more information, you may take a look at my publications.
 

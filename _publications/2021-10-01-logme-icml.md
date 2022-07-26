@@ -6,7 +6,7 @@ excerpt: 'This paper studies task adaptive pre-trained model selection, an under
 date: 2021-10-01
 venue: 'ICML'
 paperurl: 'http://proceedings.mlr.press/v139/you21b.html'
-citation: 'You, K., Liu, Y., Wang, J. &amp; Long, M.. (2021). LogME: Practical Assessment of Pre-trained Models for Transfer Learning. ICML 2021.'
+citation: 'You, K., **Liu, Y.**, Wang, J. &amp; Long, M.. (2021). LogME: Practical Assessment of Pre-trained Models for Transfer Learning. ICML 2021.'
 ---
 
 [Download paper here](http://proceedings.mlr.press/v139/you21b/you21b.pdf)

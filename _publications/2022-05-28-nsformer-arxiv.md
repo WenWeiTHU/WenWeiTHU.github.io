@@ -6,7 +6,7 @@ excerpt: 'Transformers have shown great power in time series forecasting due to 
 date: 2022-05-28
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2205.14415'
-citation: 'Liu, Y., Wu, H., Wang, J., & Long, M. (2022). Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting. arXiv preprint.'
+citation: '**Liu, Y.**, Wu, H., Wang, J., & Long, M. (2022). Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting. arXiv preprint.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2205.14415.pdf)
