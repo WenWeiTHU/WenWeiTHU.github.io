@@ -7,8 +7,8 @@ excerpt: 'Time series analysis is of immense importance in extensive application
 date: 2022-10-05
 venue: 'ICLR'
 paperurl: 'https://arxiv.org/abs/2210.02186'
-citation: 'Wu, H., Hu, T., Liu, Y., Zhou, H., Wang, J., & Long, M. (2022). TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis. ICLR 2023.'
+citation: 'Wu, H., Hu, T., **Liu, Y.**, Zhou, H., Wang, J., & Long, M. (2022). TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis. arXiv preprint arXiv:2210.02186.'
 ---
 
 
-[Download paper here](https://arxiv.org/abs/2210.02186)
+[Download paper here](https://arxiv.org/pdf/2210.02186.pdf)

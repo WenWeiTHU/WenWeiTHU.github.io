@@ -42,6 +42,8 @@ Awards
 Experience
 ======
 * Membership (Tsinghua University Machine Learning Group, THUML), 2021 to present
+* Teaching Assistant, Introduction to Artificial Intelligence, Spring 2023
+* Teaching Assistant, Deep Learning, Fall 2022
 * Teaching Assistant, Introduction to Artificial Intelligence, Spring 2022
 * Teaching Assistant, Machine Learning, Fall 2021
 * Teaching Assistant, Introduction to Artificial Intelligence, Spring 2021
