@@ -6,7 +6,7 @@ excerpt: 'The recent boom of linear forecasting models questions the ongoing pas
 date: 2023-10-13
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2310.06625'
-citation: '**Liu, Y**., Hu, T., Zhang, H., Wu, H., Wang, S., Ma, L., & Long, M. (2023). iTransformer: Inverted Transformers Are Effective for Time Series Forecasting. arXiv preprint arXiv:2310.06625.'
+citation: 'Liu, Y., Hu, T., Zhang, H., Wu, H., Wang, S., Ma, L., & Long, M. (2023). iTransformer: Inverted Transformers Are Effective for Time Series Forecasting. arXiv preprint arXiv:2310.06625.'
 
 ---
 

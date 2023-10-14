@@ -6,7 +6,7 @@ excerpt: 'Model hubs with many pre-trained models (PTMs) have become a cornersto
 date: 2022-06-24
 venue: 'JMLR'
 paperurl: 'https://arxiv.org/abs/2110.10545v4'
-citation: 'You, K., **Liu, Y.**, Zhang, Z., Wang, J., Jordan, M. I., & Long, M. (2022). Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs. Journal of Machine Learning Research, 23, 1-47.'
+citation: 'You, K., Liu, Y., Zhang, Z., Wang, J., Jordan, M. I., & Long, M. (2022). Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs. Journal of Machine Learning Research, 23, 1-47.'
 ---
 
 

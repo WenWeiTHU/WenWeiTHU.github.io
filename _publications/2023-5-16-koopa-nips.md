@@ -6,7 +6,7 @@ excerpt: 'Real-world time series is characterized by intrinsic non-stationarity 
 date: 2023-05-16
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2305.18803'
-citation: '**Liu, Y**, Li, C, Wang, J., & Long, M. (2023). Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors[J]. NeurIPS 2023.'
+citation: 'Liu, Y, Li, C, Wang, J., & Long, M. (2023). Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors[J]. NeurIPS 2023.'
 ---
 
 
