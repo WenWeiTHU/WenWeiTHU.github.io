@@ -31,7 +31,7 @@ Publications & Preprints
 
 System and Applications
 ======
-Project Leader, [Apache IoTDB](https://github.com/apache/iotdb) - MLNode (Native machine learning engine of time series database).
+[Apache IoTDB](https://github.com/apache/iotdb) - MLNode (Native machine learning engine of time series database).
 
 Academic Services
 ======
