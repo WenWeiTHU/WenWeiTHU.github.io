@@ -37,7 +37,7 @@ Academic Services
 ======
 * Conference Reviewer, International Conference on Learning Representations (ICLR) 2024.
 * Conference Reviewer, Conference on Neural Information Processing Systems (NeurIPS) 2023.
-* Conference Reviewer, International Conference on Machine Learning (ICML) 2022-2023.
+* Conference Reviewer, International Conference on Machine Learning (ICML) 2022-2024.
 * Conference Reviewer, International Conference on Machine Learning (CVPR) 2023.
 
 Honors & Awards
