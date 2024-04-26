@@ -36,9 +36,10 @@ Deep Models for Time Series
 * [iTransformer](https://github.com/thuml/iTransformer) - Foundation Multivariate Time Series Model, 700+ Stars.
 * [Timer](https://github.com/thuml/Timer) - GPT-style Large Time Series Model for General Time Series Analysis.
 * [AutoTimes](https://github.com/thuml/AutoTimes) - Adopting LLMs as Autoregressive Time Series Forecasters.
+
 Algorithm Library
-* [Time Series Library](https://github.com/thuml/Time-Series-Library) - Commiter, 4.3k+ Stars
-* [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library) - Commiter, 3.1k+ Stars
+* [Time Series Library](https://github.com/thuml/Time-Series-Library) - Committer, 4.3k+ Stars
+* [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library) - Committer, 3.1k+ Stars
 
 System and Applications
 ======
