@@ -30,14 +30,14 @@ Publications & Preprints
 
 Open Source
 ======
-Deep Models for Time Series
-* [Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers) - General Framework for Transformer Forecasters, 400+ Stars.
+Deep Models for Time Series:
+* [Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers) - General Framework for Transformers, 400+ Stars.
 * [Koopa](https://github.com/thuml/Koopa) - Koopman Theory Inspired Non-stationary Time Series Predcitor.
 * [iTransformer](https://github.com/thuml/iTransformer) - Foundation Multivariate Time Series Model, 700+ Stars.
 * [Timer](https://github.com/thuml/Timer) - GPT-style Large Time Series Model for General Time Series Analysis.
 * [AutoTimes](https://github.com/thuml/AutoTimes) - Adopting LLMs as Autoregressive Time Series Forecasters.
 
-Algorithm Library
+Algorithm Library:
 * [Time Series Library](https://github.com/thuml/Time-Series-Library) - Committer, 4.3k+ Stars
 * [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library) - Committer, 3.1k+ Stars
 
