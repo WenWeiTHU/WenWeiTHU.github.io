@@ -31,9 +31,9 @@ Publications & Preprints
 Open Source
 ======
 Deep Models for Time Series:
-* [Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers) - General Framework for Transformers, 400+ Stars.
+* [Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers) - Transformers for Non-stationary forecasting, 400+ Stars.
 * [Koopa](https://github.com/thuml/Koopa) - Koopman Theory Inspired Non-stationary Time Series Predcitor.
-* [iTransformer](https://github.com/thuml/iTransformer) - Foundation Multivariate Time Series Model, 700+ Stars.
+* [iTransformer](https://github.com/thuml/iTransformer) - Foundation Multivariate Time Series Model, 800+ Stars.
 * [Timer](https://github.com/thuml/Timer) - GPT-style Large Time Series Model for General Time Series Analysis.
 * [AutoTimes](https://github.com/thuml/AutoTimes) - Adopting LLMs as Autoregressive Time Series Forecasters.
 
@@ -47,11 +47,9 @@ System and Applications
 
 Academic Services
 ======
-* Conference Reviewer, International Conference on Machine Learning (ICML) 2024.
 * Conference Reviewer, International Conference on Learning Representations (ICLR) 2024.
-* Conference Reviewer, International Conference on Machine Learning (ICML) 2023.
-* Conference Reviewer, Conference on Neural Information Processing Systems (NeurIPS) 2023.
-* Conference Reviewer, International Conference on Machine Learning (ICML) 2022.
+* Conference Reviewer, Conference on Neural Information Processing Systems (NeurIPS) 2023-2024.
+* Conference Reviewer, International Conference on Machine Learning (ICML) 2022-2024.
 * Conference Reviewer, International Conference on Machine Learning (CVPR) 2023.
 
 Honors & Awards
