@@ -6,7 +6,7 @@ excerpt: 'Deep learning has contributed remarkably to the advancement of time se
 date: 2024-02-03
 venue: 'ICML'
 paperurl: 'https://arxiv.org/abs/2402.02368'
-citation: 'Liu, Y., Zhang, H., Li, C., Huang, X., Wang, J., & Long, M. (2024). Timer: Generative Pre-trained Transformers Are Large Time Series Models. ICML 2024. [[Code]](https://github.com/thuml/Nonstationary_Transformers)'
+citation: 'Liu, Y., Zhang, H., Li, C., Huang, X., Wang, J., & Long, M. (2024). Timer: Generative Pre-trained Transformers Are Large Time Series Models. ICML 2024.', [[Code]](https://github.com/thuml/Nonstationary_Transformers), [[Slides]](), [[Poster]]().
 
 ---
 

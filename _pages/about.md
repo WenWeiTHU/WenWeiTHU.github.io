@@ -31,7 +31,7 @@ Publications & Preprints
 Open Source
 ======
 Deep Models for Time Series:
-* [Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers) - Transformers for Non-stationary forecasting, 400+ Stars.
+* [Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers) - Transformers for non-stationary forecasting, 400+ Stars.
 * [Koopa](https://github.com/thuml/Koopa) - Koopman Theory Inspired Non-stationary Time Series Predcitor.
 * [iTransformer](https://github.com/thuml/iTransformer) - Foundation Multivariate Time Series Model, 800+ Stars.
 * [Timer](https://github.com/thuml/Timer) - GPT-style Large Time Series Model for General Time Series Analysis.
