@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently a PhD student (from fall, 2021) at the [School of Software](https://www.thss.tsinghua.edu.cn/en/) of [Tsinghua University](https://www.tsinghua.edu.cn/en/) and a member of the [THUML](https://thuml.ai/), advised by Prof. [MingSheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). 
 
-My research interests cover Deep Learning and Machine Learning. I am currently working on deep learning applications for **Time Series Analysis** (i.e. Foundation Time Series Models, Large Time Series  Models, Multimodal Time Series Models). The pursuit of my reasearch is to implement deep learning methodology to valuable real-world applications.
+My research interests cover Deep Learning and Machine Learning. I am currently working on deep learning applications for **Time Series Analysis** (i.e. Foundation Time Series Models, Large Time Series  Models, Multi-modal Time Series Models). The pursuit of my reasearch is to implement deep learning methodology in valuable real-world applications.
 
 For more information, you may take a look at my [Google Scholar](https://scholar.google.com/citations?user=dS9HVU8AAAAJ) and [GitHub](https://github.com/WenWeiTHU).
 
@@ -37,7 +37,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 
 ## System and Applications
-* [Apache IoTDB](https://iotdb.apache.org/) - [AINode](https://mp.weixin.qq.com/s/mC5WZwM0ch7FdpJhFKSzLw): Native machine learning engine of time series database.
+* [Apache IoTDB](https://iotdb.apache.org/) - [AINode](https://mp.weixin.qq.com/s/mC5WZwM0ch7FdpJhFKSzLw): Native machine learning engine in time series database.
 * [Huawei](https://mp.weixin.qq.com/s/kdbfBqE7XiXI1GCIDEUhQA) - [iTransformer](https://github.com/thuml/iTransformer): Resource allocation of AIOps, developed in Huawei.
 * [Ant Group](https://en.wikipedia.org/wiki/Ant_Group) - [iTransformer](https://github.com/thuml/iTransformer): Green computing of data center, developed in Ant Group.
 
@@ -60,7 +60,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 * Conference Reviewer, International Conference on Very Large Databases ([VLDB](https://www.vldb.org/)) 2023.
 * Conference Reviewer, Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/)) 2023-2024.
 
-#### Teaching Services
+#### Teaching Experiences
 
 * Teaching Assistant, Database System, Spring 2024, Prof. [Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ&hl=zh-CN).
 * Teaching Assistant, Machine Learning, Fall 2023, Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/).
@@ -75,8 +75,8 @@ For more information, you may take a look at my [Google Scholar](https://schola
 ## Education
 
 * *Ph.D.* in Software Engineering ([School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/)), 2021 to present.
-* *Second Degree* Bachelor in Economics ([School of Economics and Management, Tsinghua University](https://www.sem.tsinghua.edu.cn/), ), 2018 to 2021.
-* *Bachelor* in Software Engineering ([School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/)), 2021 to present., 2017 to 2021.
+* *Second Degree* Bachelor in Economics ([School of Economics and Management, Tsinghua University](https://www.sem.tsinghua.edu.cn/)), 2018 to 2021.
+* *Bachelor* in Software Engineering ([School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/)), 2021 to present, 2017 to 2021.
 
 
 

@@ -62,7 +62,7 @@ main:
     blog: https://mp.weixin.qq.com/s/dhk-ASnrNG_Y99xykHaCUA
     notes: Accepted
 
-  - title: "Non-stationary Transformers: Rethinking the Stationarity in Time Series Forecasting"
+  - title: "Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting"
     authors: <strong>Yong Liu*</strong>, Haiwu Wu*, Jianmin Wang, Mingsheng Long#
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems, 2022.
@@ -75,7 +75,7 @@ main:
     notes: Accepted
 
   - title: "Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs"
-    authors: Kaichao You, <strong>Yong Liu*</strong>, Ziyang Zhang, Jianmin Wang, Michael I. Jordan, Mingsheng Long#
+    authors: Kaichao You*, <strong>Yong Liu*</strong>, Ziyang Zhang, Jianmin Wang, Michael I. Jordan, Mingsheng Long#
     conference_short: JMLR
     conference: Journal of Machine Learning Research, 2022.
     pdf: https://arxiv.org/abs/2110.10545v4
@@ -85,7 +85,7 @@ main:
     notes: Accepted
 
   - title: "LogME: Practical Assessment of Pre-trained Models for Transfer Learning"
-    authors: Kaichao You, <strong>Yong Liu*</strong>, Jianmin Wang, Mingsheng Long#
+    authors: Kaichao You*, <strong>Yong Liu*</strong>, Jianmin Wang, Mingsheng Long#
     conference_short: ICML
     conference: International Conference on Machine Learning, 2021.
     pdf: https://proceedings.mlr.press/v139/you21b.html
