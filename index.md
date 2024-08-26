@@ -37,7 +37,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 
 ## System and Applications
-* [Apache IoTDB](https://iotdb.apache.org/) - [AINode](https://mp.weixin.qq.com/s/mC5WZwM0ch7FdpJhFKSzLw): Native machine learning engine in time series database.
+* [Apache IoTDB](https://iotdb.apache.org/) - [AINode](https://mp.weixin.qq.com/s/mC5WZwM0ch7FdpJhFKSzLw): Native machine learning engine in time series database. ![](https://img.shields.io/github/stars/apache/iotdb?size=small)
 * [Huawei](https://mp.weixin.qq.com/s/kdbfBqE7XiXI1GCIDEUhQA) - [iTransformer](https://github.com/thuml/iTransformer): Resource allocation of AIOps, developed in Huawei.
 * [Ant Group](https://en.wikipedia.org/wiki/Ant_Group) - [iTransformer](https://github.com/thuml/iTransformer): Green computing of data center, developed in Ant Group.
 
