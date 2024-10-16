@@ -1,4 +1,10 @@
 main:
+  - title: "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting"
+    authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
+    conference_short: arXiv
+    conference: arXiv preprint, 2024.
+    pdf: https://arxiv.org/abs/2410.04803
+    image: ./assets/img/timer_xl_cover.png
 
   - title: "Timer: Generative Pre-trained Transformers Are Large Time Series Models"
     authors: <strong>Yong Liu*</strong>, Haoran Zhang*, Chenyu Li*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
@@ -19,6 +25,7 @@ main:
     pdf: https://arxiv.org/abs/2402.02370
     code: https://github.com/thuml/AutoTimes
     image: ./assets/img/autotimes_cover.png
+    slides: https://cloud.tsinghua.edu.cn/f/7689d30f92594ded84f0/
     notes: Accepted
 
   - title: "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting"
