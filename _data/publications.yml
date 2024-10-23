@@ -25,6 +25,7 @@ main:
     pdf: https://arxiv.org/abs/2402.02370
     code: https://github.com/thuml/AutoTimes
     image: ./assets/img/autotimes_cover.png
+    poster: https://cloud.tsinghua.edu.cn/f/f2c18ae34fef4e74ad46/
     slides: https://cloud.tsinghua.edu.cn/f/7689d30f92594ded84f0/
     notes: Accepted
 
