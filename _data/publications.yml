@@ -42,7 +42,7 @@ main:
     notes: Spotlight
 
   - title: "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables"
-    authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, <strong>Yong Liu</strong>, Yunzhong Qiu, Haoran Zhang, Jianmin Wang, Mingsheng Long#
+    authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, Guo Qin, Haoran Zhang, <strong>Yong Liu</strong>, Yunzhong Qiu, Jianmin Wang, Mingsheng Long#
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems, 2024.
     pdf: https://arxiv.org/abs/2402.19072
