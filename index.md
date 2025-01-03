@@ -14,6 +14,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 ## News
 
+- **[Jan. 2025]**  The application of iTransformer for Green Computing are awarded as [Outstanding Projects of CCF Fund](https://mp.weixin.qq.com/s/PDLNbibZD3kqhcUoNejLfA). Congratulations!
 - **[Dec. 2024]** An open-source large time-series model is released [here](https://huggingface.co/thuml/timer-base-84m), which is pre-trained on **260B** time points for making predictions without training samples.
 - **[Sept. 2024]** Two papers ([AutoTimes](https://arxiv.org/abs/2402.02368) and [TimeXer](https://arxiv.org/abs/2402.19072)) were accepted in **NeurIPS 2024**.
 - **[Jun. 2024]** Large model for time series ([Timer](https://arxiv.org/abs/2402.02368)) was accepted in **ICML 2024**. [Code](https://github.com/thuml/Large-Time-Series-Model) is available!
