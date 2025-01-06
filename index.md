@@ -19,7 +19,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 - **[Sept. 2024]** Two papers ([AutoTimes](https://arxiv.org/abs/2402.02368) and [TimeXer](https://arxiv.org/abs/2402.19072)) were accepted in **NeurIPS 2024**.
 - **[Jun. 2024]** Large model for time series ([Timer](https://arxiv.org/abs/2402.02368)) was accepted in **ICML 2024**. [Code](https://github.com/thuml/Large-Time-Series-Model) is available!
 - **[Jan. 2024]** Multivariate deep forecaster ([iTransformer](https://github.com/thuml/iTransformer))  was accepted as **ICLR 2024 Splotlight**.
-- **[Dec 2023]** **Native AI analytical engine** ([AINode](https://iotdb.apache.org/UserGuide/latest/User-Manual/AINode_timecho.html)) in time-series database ([Apache IoTDB](https://github.com/apache/iotdb)) is released!
+- **[Dec 2023]** **Native AI analytical engine** ([AINode](https://iotdb.apache.org/UserGuide/latest/IoTDB-Introduction/IoTDB-Introduction_apache.html)) in time-series database ([Apache IoTDB](https://github.com/apache/iotdb)) is released!
 
 {% include_relative _includes/publications.md %}
 
