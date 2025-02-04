@@ -1,4 +1,12 @@
 main:
+  - title: "Sundial: A Family of Highly Capable Time Series Foundation Models"
+    authors: <strong>Yong Liu*</strong>, Guo Qin*, Zhiyuan Shi, Zhi Chen, Caiyin Yang, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
+    conference_short: arxiv
+    conference: arxiv preprint
+    pdf: https://arxiv.org/abs/2502.00816
+    image: ./assets/img/sundial_cover.png
+    notes: arXiv preprint, 2025
+
   - title: "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting"
     authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
     conference_short: ICLR
@@ -20,17 +28,6 @@ main:
     dataset: https://huggingface.co/datasets/thuml/UTSD
     notes: Accepted
 
-  - title: "AutoTimes: Autoregressive Time Series Forecasters via Large Language Models"
-    authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
-    conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems, 2024.
-    pdf: https://arxiv.org/abs/2402.02370
-    code: https://github.com/thuml/AutoTimes
-    image: ./assets/img/autotimes_cover.png
-    poster: https://cloud.tsinghua.edu.cn/f/f2c18ae34fef4e74ad46/
-    slides: https://cloud.tsinghua.edu.cn/f/7689d30f92594ded84f0/
-    notes: Accepted
-
   - title: "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting"
     authors: <strong>Yong Liu*</strong>, Tengge Hu*, Haoran Zhang*, Haixu Wu, Shiyu Wang, Lintao Ma, Mingsheng Long#
     conference_short: ICLR
@@ -43,14 +40,6 @@ main:
     blog: https://mp.weixin.qq.com/s/-pvBnA1_NSloNxa6TYXTSg
     notes: Spotlight
 
-  - title: "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables"
-    authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, Guo Qin, Haoran Zhang, <strong>Yong Liu</strong>, Yunzhong Qiu, Jianmin Wang, Mingsheng Long#
-    conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems, 2024.
-    pdf: https://arxiv.org/abs/2402.19072
-    image: ./assets/img/timexer_cover.png
-    notes: Accepted
-
   - title: "TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis"
     authors: Haiwu Wu*, Tengge Hu*, <strong>Yong Liu*</strong>, Hang Zhou, Jianmin Wang, Mingsheng Long#
     conference_short: ICLR
@@ -62,12 +51,16 @@ main:
     blog: https://mp.weixin.qq.com/s/dhk-ASnrNG_Y99xykHaCUA
     notes: Accepted
 
-  - title: "Deep Time Series Models: A Comprehensive Survey and Benchmark"
-    authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, <strong>Yong Liu</strong>, Mingsheng Long, Jianmin Wang#
-    conference_short: TPAMI
-    conference: Transactions on Pattern Analysis and Machine Intelligence
-    pdf: https://arxiv.org/abs/2407.13278
-    image: ./assets/img/dl4ts_cover.png
+  - title: "Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting"
+    authors: <strong>Yong Liu*</strong>, Haiwu Wu*, Jianmin Wang, Mingsheng Long#
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems, 2022.
+    pdf: https://arxiv.org/abs/2205.14415
+    code: https://github.com/thuml/Nonstationary_Transformers
+    image: ./assets/img/nsformer_cover.png
+    poster: https://cloud.tsinghua.edu.cn/f/6eea66909aa7465ca9a4/
+    slides: https://cloud.tsinghua.edu.cn/f/8d6ce7b18d3c468190e7/
+    blog: https://mp.weixin.qq.com/s/LkpkTiNBVBYA-FqzAdy4dw
     notes: Accepted
 
   - title: "Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors"
@@ -82,16 +75,31 @@ main:
     blog: https://mp.weixin.qq.com/s/10PoA6n51Qok-nJT6_vkhA
     notes: Accepted
 
-  - title: "Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting"
-    authors: <strong>Yong Liu*</strong>, Haiwu Wu*, Jianmin Wang, Mingsheng Long#
+  - title: "AutoTimes: Autoregressive Time Series Forecasters via Large Language Models"
+    authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
     conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems, 2022.
-    pdf: https://arxiv.org/abs/2205.14415
-    code: https://github.com/thuml/Nonstationary_Transformers
-    image: ./assets/img/nsformer_cover.png
-    poster: https://cloud.tsinghua.edu.cn/f/6eea66909aa7465ca9a4/
-    slides: https://cloud.tsinghua.edu.cn/f/8d6ce7b18d3c468190e7/
-    blog: https://mp.weixin.qq.com/s/LkpkTiNBVBYA-FqzAdy4dw
+    conference: Conference on Neural Information Processing Systems, 2024.
+    pdf: https://arxiv.org/abs/2402.02370
+    code: https://github.com/thuml/AutoTimes
+    image: ./assets/img/autotimes_cover.png
+    poster: https://cloud.tsinghua.edu.cn/f/f2c18ae34fef4e74ad46/
+    slides: https://cloud.tsinghua.edu.cn/f/7689d30f92594ded84f0/
+    notes: Accepted
+
+  - title: "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables"
+    authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, Guo Qin, Haoran Zhang, <strong>Yong Liu</strong>, Yunzhong Qiu, Jianmin Wang, Mingsheng Long#
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems, 2024.
+    pdf: https://arxiv.org/abs/2402.19072
+    image: ./assets/img/timexer_cover.png
+    notes: Accepted
+
+  - title: "Deep Time Series Models: A Comprehensive Survey and Benchmark"
+    authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, <strong>Yong Liu</strong>, Mingsheng Long, Jianmin Wang#
+    conference_short: TPAMI
+    conference: Transactions on Pattern Analysis and Machine Intelligence
+    pdf: https://arxiv.org/abs/2407.13278
+    image: ./assets/img/dl4ts_cover.png
     notes: Accepted
 
   - title: "Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs"
