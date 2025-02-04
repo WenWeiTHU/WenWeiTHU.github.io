@@ -6,10 +6,9 @@ layout: homepage
 
 I am currently a PhD student (from fall, 2021) at the [School of Software](https://www.thss.tsinghua.edu.cn/en/) of [Tsinghua University](https://www.tsinghua.edu.cn/en/) and a member of the [THUML](https://thuml.ai/), advised by Prof. [MingSheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). 
 
-My research interests cover Time Series Analysis and Deep Learning. I am currently working on foundation time series models, large time series models, and multi-modal time series models. In addition to pure research, I also dedicate myself to promoting research on valuable real-world applications. My research aims to contribute to the advancement of intelligent systems capable of handling massive and complicated temporal data across domains, including finance, healthcare, industry, and environment.
+My research interests cover Deep Learning and Time Series Analysis. I am currently working on time series foundation models and MySys for time series. In addition to pure research, I also dedicate myself to promoting research on valuable real-world applications. My research aims to contribute to the advancement of intelligent systems capable of handling massive and complicated temporal data across domains, including finance, healthcare, industry, and environment.
 
 For more information, you may take a look at my [Google Scholar](https://scholar.google.com/citations?user=dS9HVU8AAAAJ) and [GitHub](https://github.com/WenWeiTHU).
-
 
 
 ## News
@@ -59,7 +58,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 #### Academic Services
 
-* Conference Reviewer, International Conference on Learning Representations ([ICLR](http://iclr.cc/)) 2024.
+* Conference Reviewer, International Conference on Learning Representations ([ICLR](http://iclr.cc/)) 2024-2025.
 * Conference Reviewer, International Conference on Machine Learning ([ICML](http://icml.cc/)) 2022-2024.
 * Conference Reviewer, International Conference on Machine Learning ([CVPR](https://cvpr2023.thecvf.com/)) 2023.
 * Conference Reviewer, International Conference on Very Large Databases ([VLDB](https://www.vldb.org/)) 2023.
