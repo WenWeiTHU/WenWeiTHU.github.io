@@ -1,4 +1,23 @@
 main:
+  - title: "Sundial: A Family of Highly Capable Time Series Foundation Models"
+    authors: <strong>Yong Liu*</strong>, Guo Qin*, Zhiyuan Shi, Zhi Chen, Caiyin Yang, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
+    conference_short: arxiv
+    conference: arxiv preprint
+    pdf: https://arxiv.org/abs/2502.00816
+    image: ./assets/img/sundial_cover.png
+    notes: arXiv preprint, 2025
+
+main:
+  - title: "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting"
+    authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2025.
+    pdf: https://arxiv.org/abs/2410.04803
+    image: ./assets/img/timer_xl_cover.png
+    code: https://github.com/thuml/Timer-XL
+    notes: Accepted
+
+main:
   - title: "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting"
     authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
     conference_short: ICLR
@@ -64,10 +83,11 @@ main:
 
   - title: "Deep Time Series Models: A Comprehensive Survey and Benchmark"
     authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, <strong>Yong Liu</strong>, Mingsheng Long, Jianmin Wang#
-    conference_short: arXiv
-    conference: arXiv preprint, 2024.
+    conference_short: TPAMI
+    conference: Transactions on Pattern Analysis and Machine Intelligence
     pdf: https://arxiv.org/abs/2407.13278
     image: ./assets/img/dl4ts_cover.png
+    notes: Accepted
 
   - title: "Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors"
     authors: <strong>Yong Liu*</strong>, Chenyu Li*, Jianmin Wang, Mingsheng Long#
