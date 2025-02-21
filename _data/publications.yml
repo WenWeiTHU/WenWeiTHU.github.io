@@ -96,11 +96,11 @@ main:
 
   - title: "Deep Time Series Models: A Comprehensive Survey and Benchmark"
     authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, <strong>Yong Liu</strong>, Mingsheng Long, Jianmin Wang#
-    conference_short: TPAMI
-    conference: Transactions on Pattern Analysis and Machine Intelligence
+    conference_short: arxiv
+    conference: arxiv preprint
     pdf: https://arxiv.org/abs/2407.13278
     image: ./assets/img/dl4ts_cover.png
-    notes: Accepted
+    notes: arXiv preprint, 2025
 
   - title: "Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs"
     authors: Kaichao You*, <strong>Yong Liu*</strong>, Ziyang Zhang, Jianmin Wang, Michael I. Jordan, Mingsheng Long#
