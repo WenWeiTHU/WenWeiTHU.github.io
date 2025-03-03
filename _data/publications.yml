@@ -14,6 +14,7 @@ main:
     pdf: https://arxiv.org/abs/2410.04803
     image: ./assets/img/timer_xl_cover.png
     code: https://github.com/thuml/Timer-XL
+    lib: https://github.com/thuml/OpenLTM
     notes: Accepted
 
   - title: "Timer: Generative Pre-trained Transformers Are Large Time Series Models"
@@ -37,7 +38,7 @@ main:
     image: ./assets/img/itransformer_cover.png
     poster: https://cloud.tsinghua.edu.cn/f/36a2ae6c132d44c0bd8c/
     slides: https://cloud.tsinghua.edu.cn/f/175ff98f7e2d44fbbe8e/
-    blog: https://mp.weixin.qq.com/s/-pvBnA1_NSloNxa6TYXTSg
+    intro: https://mp.weixin.qq.com/s/-pvBnA1_NSloNxa6TYXTSg
     notes: Spotlight
 
   - title: "TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis"
@@ -48,7 +49,7 @@ main:
     code: https://github.com/thuml/TimesNet
     image: ./assets/img/timesnet_cover.png
     slides: https://wuhaixu2016.github.io/pdf/ICLR2023_TimesNet.pdf
-    blog: https://mp.weixin.qq.com/s/dhk-ASnrNG_Y99xykHaCUA
+    intro: https://mp.weixin.qq.com/s/dhk-ASnrNG_Y99xykHaCUA
     notes: Accepted
 
   - title: "Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting"
@@ -60,7 +61,7 @@ main:
     image: ./assets/img/nsformer_cover.png
     poster: https://cloud.tsinghua.edu.cn/f/6eea66909aa7465ca9a4/
     slides: https://cloud.tsinghua.edu.cn/f/8d6ce7b18d3c468190e7/
-    blog: https://mp.weixin.qq.com/s/LkpkTiNBVBYA-FqzAdy4dw
+    intro: https://mp.weixin.qq.com/s/LkpkTiNBVBYA-FqzAdy4dw
     notes: Accepted
 
   - title: "Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors"
@@ -72,7 +73,7 @@ main:
     image: ./assets/img/koopa_cover.png
     poster: https://cloud.tsinghua.edu.cn/f/2f2fc7bd87d340ffaf29/
     slides: https://cloud.tsinghua.edu.cn/f/407ef231c6cb4727a6fa/
-    blog: https://mp.weixin.qq.com/s/10PoA6n51Qok-nJT6_vkhA
+    intro: https://mp.weixin.qq.com/s/10PoA6n51Qok-nJT6_vkhA
     notes: Accepted
 
   - title: "AutoTimes: Autoregressive Time Series Forecasters via Large Language Models"
@@ -109,7 +110,7 @@ main:
     pdf: https://arxiv.org/abs/2110.10545v4
     code: https://github.com/thuml/LogME
     image: ./assets/img/btuning_cover.png
-    blog: https://mp.weixin.qq.com/s/fgmp5Cph8wIgf2IbPoHj7w
+    intro: https://mp.weixin.qq.com/s/fgmp5Cph8wIgf2IbPoHj7w
     notes: Accepted
 
   - title: "LogME: Practical Assessment of Pre-trained Models for Transfer Learning"
@@ -119,5 +120,5 @@ main:
     pdf: https://proceedings.mlr.press/v139/you21b.html
     code: https://github.com/thuml/LogME
     image: ./assets/img/logme_cover.png
-    blog: https://mp.weixin.qq.com/s/9lJEcwkXAN4jaENNghjpyw
+    intro: https://mp.weixin.qq.com/s/9lJEcwkXAN4jaENNghjpyw
     notes: Accepted
