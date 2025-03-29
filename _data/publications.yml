@@ -15,6 +15,8 @@ main:
     image: ./assets/img/timer_xl_cover.png
     code: https://github.com/thuml/Timer-XL
     lib: https://github.com/thuml/OpenLTM
+    poster: https://cloud.tsinghua.edu.cn/f/378fbc6f0359460880aa/
+    slides: https://cloud.tsinghua.edu.cn/f/2d4b660fc05148dc8f30/
     notes: Accepted
 
   - title: "Timer: Generative Pre-trained Transformers Are Large Time Series Models"
