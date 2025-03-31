@@ -19,18 +19,6 @@ main:
     slides: https://cloud.tsinghua.edu.cn/f/2d4b660fc05148dc8f30/
     notes: Accepted
 
-  - title: "Timer: Generative Pre-trained Transformers Are Large Time Series Models"
-    authors: <strong>Yong Liu*</strong>, Haoran Zhang*, Chenyu Li*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
-    conference_short: ICML
-    conference: International Conference on Machine Learning, 2024.
-    pdf: https://arxiv.org/abs/2402.02368
-    code: https://github.com/thuml/Large-Time-Series-Model
-    image: ./assets/img/timer_cover.png
-    poster: https://cloud.tsinghua.edu.cn/f/91da8a3d06984f209461/
-    slides: https://cloud.tsinghua.edu.cn/f/b766629dbc584a4e8563/
-    dataset: https://huggingface.co/datasets/thuml/UTSD
-    notes: Accepted
-
   - title: "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting"
     authors: <strong>Yong Liu*</strong>, Tengge Hu*, Haoran Zhang*, Haixu Wu, Shiyu Wang, Lintao Ma, Mingsheng Long#
     conference_short: ICLR
@@ -42,17 +30,6 @@ main:
     slides: https://cloud.tsinghua.edu.cn/f/175ff98f7e2d44fbbe8e/
     intro: https://mp.weixin.qq.com/s/-pvBnA1_NSloNxa6TYXTSg
     notes: Spotlight
-
-  - title: "TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis"
-    authors: Haiwu Wu*, Tengge Hu*, <strong>Yong Liu*</strong>, Hang Zhou, Jianmin Wang, Mingsheng Long#
-    conference_short: ICLR
-    conference: International Conference on Learning Representations, 2023.
-    pdf: https://arxiv.org/abs/2210.02186
-    code: https://github.com/thuml/TimesNet
-    image: ./assets/img/timesnet_cover.png
-    slides: https://wuhaixu2016.github.io/pdf/ICLR2023_TimesNet.pdf
-    intro: https://mp.weixin.qq.com/s/dhk-ASnrNG_Y99xykHaCUA
-    notes: Accepted
 
   - title: "Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting"
     authors: <strong>Yong Liu*</strong>, Haiwu Wu*, Jianmin Wang, Mingsheng Long#
@@ -66,6 +43,18 @@ main:
     intro: https://mp.weixin.qq.com/s/LkpkTiNBVBYA-FqzAdy4dw
     notes: Accepted
 
+  - title: "Timer: Generative Pre-trained Transformers Are Large Time Series Models"
+    authors: <strong>Yong Liu*</strong>, Haoran Zhang*, Chenyu Li*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
+    conference_short: ICML
+    conference: International Conference on Machine Learning, 2024.
+    pdf: https://arxiv.org/abs/2402.02368
+    code: https://github.com/thuml/Large-Time-Series-Model
+    image: ./assets/img/timer_cover.png
+    poster: https://cloud.tsinghua.edu.cn/f/91da8a3d06984f209461/
+    slides: https://cloud.tsinghua.edu.cn/f/b766629dbc584a4e8563/
+    dataset: https://huggingface.co/datasets/thuml/UTSD
+    notes: Accepted
+
   - title: "Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors"
     authors: <strong>Yong Liu*</strong>, Chenyu Li*, Jianmin Wang, Mingsheng Long#
     conference_short: NeurIPS
@@ -76,6 +65,18 @@ main:
     poster: https://cloud.tsinghua.edu.cn/f/2f2fc7bd87d340ffaf29/
     slides: https://cloud.tsinghua.edu.cn/f/407ef231c6cb4727a6fa/
     intro: https://mp.weixin.qq.com/s/10PoA6n51Qok-nJT6_vkhA
+    notes: Accepted
+
+
+  - title: "TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis"
+    authors: Haiwu Wu*, Tengge Hu*, <strong>Yong Liu*</strong>, Hang Zhou, Jianmin Wang, Mingsheng Long#
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2023.
+    pdf: https://arxiv.org/abs/2210.02186
+    code: https://github.com/thuml/TimesNet
+    image: ./assets/img/timesnet_cover.png
+    slides: https://wuhaixu2016.github.io/pdf/ICLR2023_TimesNet.pdf
+    intro: https://mp.weixin.qq.com/s/dhk-ASnrNG_Y99xykHaCUA
     notes: Accepted
 
   - title: "AutoTimes: Autoregressive Time Series Forecasters via Large Language Models"
