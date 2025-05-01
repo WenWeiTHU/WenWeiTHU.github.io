@@ -15,13 +15,13 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 - **[May 2025]** A **generative foundation model** for time series ([Sundial](https://arxiv.org/abs/2502.00816)) was accepted as **ICML 2025 Spotlight**.
 - **[Mar. 2025]** An **open-source** large time-series model ([Timer-XL](https://arxiv.org/abs/2410.04803)) is released [here](https://huggingface.co/thuml/timer-base-84m), which can make zero-shot predictions.
-- **[Jan. 2025]** One paper ([Timer-XL](https://arxiv.org/abs/2410.04803)) was accepted in **ICLR 2025**.
+- **[Jan. 2025]** An extension for large time-series model ([Timer-XL](https://arxiv.org/abs/2410.04803)) was accepted in **ICLR 2025**.
 - **[Jan. 2025]** iTransformer for Ant Group Green Computing are awarded as [Outstanding Projects of CCF Fund](https://mp.weixin.qq.com/s/PDLNbibZD3kqhcUoNejLfA). Congratulations!
 - **[Sep. 2024]** Two papers ([AutoTimes](https://arxiv.org/abs/2402.02368) and [TimeXer](https://arxiv.org/abs/2402.19072)) were accepted in **NeurIPS 2024**.
 - **[Jun. 2024]** A **large model** for time series ([Timer](https://arxiv.org/abs/2402.02368)) was accepted in **ICML 2024**. [Code](https://github.com/thuml/Large-Time-Series-Model) is available!
-- **[Jan. 2024]** A **multivariate** deep forecaster ([iTransformer](https://github.com/thuml/iTransformer)) was accepted as **ICLR 2024 Spotlight**.
+- **[Jan. 2024]** A deep model for **multivariate forecasting** ([iTransformer](https://github.com/thuml/iTransformer)) was accepted as **ICLR 2024 Spotlight**.
 - **[Dec. 2023]** **Native AI analytical engine** ([AINode](https://iotdb.apache.org/UserGuide/latest/AI-capability/AINode_apache)) in database ([Apache IoTDB](https://github.com/apache/iotdb)) is released!
-- **[Oct. 2023]** A **non-stationary** deep forecaster inspired by Koopman theory ([Koopa](https://arxiv.org/abs/2305.18803)) was accepted as **NeurIPS 2023**.
+- **[Oct. 2023]** A deep model for **non-stationary forecasting** inspired by Koopman theory ([Koopa](https://arxiv.org/abs/2305.18803)) was accepted as **NeurIPS 2023**.
 - **[Apr. 2022]** [TimesNet](https://arxiv.org/abs/2210.02186)) for **general time series analysis** was accepted as **ICLR 2023**.
 - **[Oct. 2022]** [Non-stationary Transformers](https://arxiv.org/abs/2205.14415)) was accepted as **NeurIPS 2022**.
 
@@ -41,7 +41,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 #### Algorithm Library
 * [Time Series Library](https://github.com/thuml/Time-Series-Library) - Co-Author. ![](https://img.shields.io/github/stars/thuml/Time-Series-Library?size=small)
 * [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library) - Committer. ![](https://img.shields.io/github/stars/thuml/Transfer-Learning-Library?color=yellow)
-* [OpenLTM](https://github.com/thuml/OpenLTM) - Co-Author. ![](https://img.shields.io/github/stars/thuml/OpenLTM)
+* [OpenLTM](https://github.com/thuml/OpenLTM) - Maintainer. ![](https://img.shields.io/github/stars/thuml/OpenLTM)
 
 
 ## System and Applications
@@ -52,6 +52,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 
 ## Invited Talks
+* Foundation Models and Analytical System for Time Series at [Apache IoTDB](https://mp.weixin.qq.com/s/xAccQtwAll-cXNUQVnZ9vA). [Slides]
 * Exploring Large Models for Time Series at [IoA, CAS](http://english.ia.cas.cn/). [Slides]
 * Deep Learning for Time Series Applications at [DoA, THU](https://www.au.tsinghua.edu.cn/). [Slides]
 * Large Models for Native Database Analysis at [TPCTC 2024](https://www.tpc.org/tpctc/tpctc2024/default5.asp). [PDF]
@@ -63,10 +64,10 @@ For more information, you may take a look at my [Google Scholar](https://schola
 #### Academic Services
 
 * Conference Reviewer, International Conference on Learning Representations ([ICLR](http://iclr.cc/)) 2024-2025.
-* Conference Reviewer, International Conference on Machine Learning ([ICML](http://icml.cc/)) 2022-2024.
+* Conference Reviewer, International Conference on Machine Learning ([ICML](http://icml.cc/)) 2022-2025.
 * Conference Reviewer, International Conference on Machine Learning ([CVPR](https://cvpr2023.thecvf.com/)) 2023.
 * Conference Reviewer, International Conference on Very Large Databases ([VLDB](https://www.vldb.org/)) 2023.
-* Conference Reviewer, Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/)) 2023-2024.
+* Conference Reviewer, Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/)) 2023-2025.
 
 #### Teaching Experiences
 
