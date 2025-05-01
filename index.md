@@ -13,7 +13,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 ## News
 
-- **[May 2025]** A **generative foundation model** for time series ([Sundial](https://arxiv.org/abs/2502.00816)) was accepted as **ICML 2025 Spotlight**.
+- **[May. 2025]** A **generative foundation model** for time series ([Sundial](https://arxiv.org/abs/2502.00816)) was accepted as **ICML 2025 Spotlight**.
 - **[Mar. 2025]** An **open-source** large time-series model ([Timer-XL](https://arxiv.org/abs/2410.04803)) is released [here](https://huggingface.co/thuml/timer-base-84m), which can make zero-shot predictions.
 - **[Jan. 2025]** An extension for large time-series model ([Timer-XL](https://arxiv.org/abs/2410.04803)) was accepted in **ICLR 2025**.
 - **[Jan. 2025]** iTransformer for Ant Group Green Computing are awarded as [Outstanding Projects of CCF Fund](https://mp.weixin.qq.com/s/PDLNbibZD3kqhcUoNejLfA). Congratulations!
@@ -22,8 +22,8 @@ For more information, you may take a look at my [Google Scholar](https://schola
 - **[Jan. 2024]** A deep model for **multivariate forecasting** ([iTransformer](https://github.com/thuml/iTransformer)) was accepted as **ICLR 2024 Spotlight**.
 - **[Dec. 2023]** **Native AI analytical engine** ([AINode](https://iotdb.apache.org/UserGuide/latest/AI-capability/AINode_apache)) in database ([Apache IoTDB](https://github.com/apache/iotdb)) is released!
 - **[Oct. 2023]** A deep model for **non-stationary forecasting** inspired by Koopman theory ([Koopa](https://arxiv.org/abs/2305.18803)) was accepted as **NeurIPS 2023**.
-- **[Apr. 2022]** [TimesNet](https://arxiv.org/abs/2210.02186)) for **general time series analysis** was accepted as **ICLR 2023**.
-- **[Oct. 2022]** [Non-stationary Transformers](https://arxiv.org/abs/2205.14415)) was accepted as **NeurIPS 2022**.
+- **[Apr. 2023]** [TimesNet](https://arxiv.org/abs/2210.02186) for **general time series analysis** was accepted as **ICLR 2023**.
+- **[Oct. 2022]** [Non-stationary Transformers](https://arxiv.org/abs/2205.14415) was accepted as **NeurIPS 2022**.
 
 {% include_relative _includes/publications.md %}
 
@@ -52,7 +52,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 
 ## Invited Talks
-* Foundation Models and Analytical System for Time Series at [Apache IoTDB](https://mp.weixin.qq.com/s/xAccQtwAll-cXNUQVnZ9vA). [Slides]
+* Foundation Models and Analytical System for Time Series at [Apache IoTDB](https://iotdb.apache.org/). [Slides]
 * Exploring Large Models for Time Series at [IoA, CAS](http://english.ia.cas.cn/). [Slides]
 * Deep Learning for Time Series Applications at [DoA, THU](https://www.au.tsinghua.edu.cn/). [Slides]
 * Large Models for Native Database Analysis at [TPCTC 2024](https://www.tpc.org/tpctc/tpctc2024/default5.asp). [PDF]
