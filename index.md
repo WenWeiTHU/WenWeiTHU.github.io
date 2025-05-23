@@ -13,9 +13,10 @@ For more information, you may take a look at my [Google Scholar](https://schola
 
 ## News
 
+- **[Mar. 2025]** An **open-source** time series foundation model ([Sundial](https://arxiv.org/abs/2502.00816)) is released [here](https://huggingface.co/thuml/sundial-base-128m), which can generate multiple probable predictions.
 - **[May. 2025]** A **generative foundation model** for time series ([Sundial](https://arxiv.org/abs/2502.00816)) was accepted as **ICML 2025 Spotlight**.
-- **[Mar. 2025]** An **open-source** large time-series model ([Timer-XL](https://arxiv.org/abs/2410.04803)) is released [here](https://huggingface.co/thuml/timer-base-84m), which can make zero-shot predictions.
-- **[Jan. 2025]** An extension for large time-series model ([Timer-XL](https://arxiv.org/abs/2410.04803)) was accepted in **ICLR 2025**.
+- **[Mar. 2025]** An **open-source** large time-series model ([Timer](https://arxiv.org/abs/2410.04803)) is released [here](https://huggingface.co/thuml/timer-base-84m), which can make zero-shot predictions.
+- **[Jan. 2025]** An **multivariate attention** for time series ([Timer-XL](https://arxiv.org/abs/2410.04803)) was accepted in **ICLR 2025**.
 - **[Jan. 2025]** iTransformer for Ant Group Green Computing are awarded as [Outstanding Projects of CCF Fund](https://mp.weixin.qq.com/s/PDLNbibZD3kqhcUoNejLfA). Congratulations!
 - **[Sep. 2024]** Two papers ([AutoTimes](https://arxiv.org/abs/2402.02368) and [TimeXer](https://arxiv.org/abs/2402.19072)) were accepted in **NeurIPS 2024**.
 - **[Jun. 2024]** A **large model** for time series ([Timer](https://arxiv.org/abs/2402.02368)) was accepted in **ICML 2024**. [Code](https://github.com/thuml/Large-Time-Series-Model) is available!
@@ -43,12 +44,15 @@ For more information, you may take a look at my [Google Scholar](https://schola
 * [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library) - Committer. ![](https://img.shields.io/github/stars/thuml/Transfer-Learning-Library?color=yellow)
 * [OpenLTM](https://github.com/thuml/OpenLTM) - Maintainer. ![](https://img.shields.io/github/stars/thuml/OpenLTM)
 
+#### HuggingFace Models
+* [Sundial](https://github.com/thuml/Time-Series-Library) - Generative times series foundation models (Pre-trained on 1 trillion TPs).
+* [Timer](https://github.com/thuml/Transfer-Learning-Library) - Large times-series models (Pre-trained on 260 billion TPs).
+
 
 ## System and Applications
 * [Apache IoTDB](https://iotdb.apache.org/) - [AINode](https://mp.weixin.qq.com/s/mC5WZwM0ch7FdpJhFKSzLw): Native machine learning engine in time series database. ![](https://img.shields.io/github/stars/apache/iotdb?size=small)
 <!-- * [Huawei](https://mp.weixin.qq.com/s/kdbfBqE7XiXI1GCIDEUhQA) - [iTransformer](https://github.com/thuml/iTransformer): Resource allocation of AIOps, developed in Huawei. -->
 * [Ant Group](https://en.wikipedia.org/wiki/Ant_Group) - [iTransformer](https://github.com/thuml/iTransformer): Green computing of data center, developed in Ant Group. ![](https://img.shields.io/github/stars/thuml/iTransformer)
-
 
 
 ## Invited Talks

@@ -5,6 +5,8 @@ main:
     conference: International Conference on Machine Learning, 2025.
     pdf: https://arxiv.org/abs/2502.00816
     image: ./assets/img/sundial_cover.png
+    code: https://github.com/thuml/Sundial
+    huggingface: https://huggingface.co/thuml/sundial-base-128m
     notes: Spotlight
 
   - title: "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting"
@@ -17,7 +19,7 @@ main:
     lib: https://github.com/thuml/OpenLTM
     poster: https://cloud.tsinghua.edu.cn/f/378fbc6f0359460880aa/
     slides: https://cloud.tsinghua.edu.cn/f/2d4b660fc05148dc8f30/
-    checkpoint: https://huggingface.co/thuml/timer-base-84m
+    huggingface: https://huggingface.co/thuml/timer-base-84m
     notes: Accepted
 
   - title: "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting"
