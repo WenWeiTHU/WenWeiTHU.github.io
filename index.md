@@ -45,8 +45,8 @@ For more information, you may take a look at my [Google Scholar](https://schola
 * [OpenLTM](https://github.com/thuml/OpenLTM) - Maintainer. ![](https://img.shields.io/github/stars/thuml/OpenLTM)
 
 #### HuggingFace Models
-* [Sundial](https://github.com/thuml/Time-Series-Library) - Generative times series foundation models (Pre-trained on 1 trillion TPs).
-* [Timer](https://github.com/thuml/Transfer-Learning-Library) - Large times-series models (Pre-trained on 260 billion TPs).
+* [Sundial](https://huggingface.co/thuml/sundial-base-128m) - Generative times series foundation models (Pre-trained on 1 trillion pts).
+* [Timer](https://huggingface.co/thuml/timer-base-84m) - Large times-series models (Pre-trained on 260 billion pts).
 
 
 ## System and Applications
