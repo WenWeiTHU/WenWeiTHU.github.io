@@ -37,6 +37,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 * [Timer](https://github.com/thuml/Large-Time-Series-Model) - Datasets, Checkpoints, Code for Developing Large Time Series Model. ![](https://img.shields.io/github/stars/thuml/Large-Time-Series-Model)
 * [Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers) - Transformers for Non-stationary Forecasting. ![](https://img.shields.io/github/stars/thuml/Nonstationary_Transformers)
 * [Koopa](https://github.com/thuml/Koopa) - Theory-inspired efficient non-stationary time series forecaster. ![](https://img.shields.io/github/stars/thuml/Koopa)
+* [AutoTimes](https://github.com/thuml/AutoTimes) - LLM-based time series forecasting with texts. ![](https://img.shields.io/github/stars/thuml/AutoTimes)
 
   
 #### Algorithm Library
