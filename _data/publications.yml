@@ -7,7 +7,7 @@ main:
     image: ./assets/img/sundial_cover.png
     code: https://github.com/thuml/Sundial
     checkpoint: https://huggingface.co/thuml/sundial-base-128m
-    notes: Spotlight
+    notes: Oral
 
   - title: "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting"
     authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#

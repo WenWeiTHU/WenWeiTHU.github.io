@@ -14,7 +14,7 @@ For more information, you may take a look at my [Google Scholar](https://schola
 ## News
 
 - **[Mar. 2025]** An **open-source** time series foundation model ([Sundial](https://arxiv.org/abs/2502.00816)) is released [here](https://huggingface.co/thuml/sundial-base-128m), which can generate multiple probable predictions.
-- **[May. 2025]** A **generative foundation model** for time series ([Sundial](https://arxiv.org/abs/2502.00816)) was accepted as **ICML 2025 Spotlight**.
+- **[May. 2025]** A **generative foundation model** for time series ([Sundial](https://arxiv.org/abs/2502.00816)) was accepted as **ICML 2025 Oral**.
 - **[Mar. 2025]** An **open-source** large time-series model ([Timer](https://arxiv.org/abs/2410.04803)) is released [here](https://huggingface.co/thuml/timer-base-84m), which can make zero-shot predictions.
 - **[Jan. 2025]** An **multivariate attention** for time series ([Timer-XL](https://arxiv.org/abs/2410.04803)) was accepted in **ICLR 2025**.
 - **[Jan. 2025]** iTransformer for Ant Group Green Computing are awarded as [Outstanding Projects of CCF Fund](https://mp.weixin.qq.com/s/PDLNbibZD3kqhcUoNejLfA). Congratulations!
