@@ -96,12 +96,12 @@ For more information, please take a look at my [Google Scholar](https://scholar
 
 ## Honors & Awards
 
-* Outstanding Papers of Beijing (北京市优秀毕业论文, Top 1%). 2021.
-* Outstanding Graduates of Beijing (北京市优秀毕业生, Top 1%). 2021.
-* Excellent Graduates of Tsinghua (清华大学优秀毕业生, Top 1%). 2021.
-* Future Scholar Scholarship (未来学者奖学金, Top 1%), Tsinghua University, 2021.
-* Shenzhen Stock Exchange Scholarship (深交所奖学金, Top 1%). 2023.
-* Boeing Scholarship (波音奖学金, Top 1%), Tsinghua University, 2020.
-* Tang Lixin Scholarship (唐立新优秀奖学金, Top 1%), Tsinghua University, 2020.
-* Jiang Nanxiang Scholarship (蒋南翔奖学金, Top 1%), Tsinghua University, 2019.
-* Huawei Scholarship (华为奖学金, Top 1%), Tsinghua University, 2018.
+* Outstanding Papers of Beijing (北京市优秀毕业论文), 2021.
+* Outstanding Graduates of Beijing (北京市优秀毕业生), 2021.
+* Excellent Graduates of Tsinghua (清华大学优秀毕业生), 2021.
+* Future Scholar Scholarship (未来学者奖学金), 2021.
+* Shenzhen Stock Exchange Scholarship (深交所奖学金), 2023.
+* Boeing Scholarship (波音奖学金), 2020.
+* Tang Lixin Scholarship (唐立新优秀奖学金), 2020.
+* Jiang Nanxiang Scholarship (蒋南翔奖学金), 2019.
+* Huawei Scholarship (华为奖学金), 2018.
