@@ -99,7 +99,8 @@ For more information, please take a look at my [Google Scholar](https://scholar
 * Outstanding Papers of Beijing (北京市优秀毕业论文), 2021.
 * Outstanding Graduates of Beijing (北京市优秀毕业生), 2021.
 * Excellent Graduates of Tsinghua (清华大学优秀毕业生), 2021.
-* Future Scholar Scholarship (未来学者奖学金), 2021.
+* Future Researcher Scholarship of Tsinghua (清华大学未来学者奖学金), 2021.
+* Tuyoo Scholarship (途游奖学金), 2024.
 * Shenzhen Stock Exchange Scholarship (深交所奖学金), 2023.
 * Boeing Scholarship (波音奖学金), 2020.
 * Tang Lixin Scholarship (唐立新优秀奖学金), 2020.
