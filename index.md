@@ -38,15 +38,15 @@ For more information, please take a look at my [Google Scholar](https://scholar
 
 #### Deep Models for Time Series
 * [iTransformer](https://github.com/thuml/iTransformer) - Foundation Multivariate Time Series Model. ![](https://img.shields.io/github/stars/thuml/iTransformer)
-* [Timer](https://github.com/thuml/Large-Time-Series-Model) - Datasets, Checkpoints, Code for Developing Large Time Series Model. ![](https://img.shields.io/github/stars/thuml/Large-Time-Series-Model)
 * [Non-stationary Transformers](https://github.com/thuml/Nonstationary_Transformers) - Transformers for Non-stationary Forecasting. ![](https://img.shields.io/github/stars/thuml/Nonstationary_Transformers)
 * [Koopa](https://github.com/thuml/Koopa) - Theory-inspired efficient non-stationary time series forecaster. ![](https://img.shields.io/github/stars/thuml/Koopa)
 * [AutoTimes](https://github.com/thuml/AutoTimes) - LLM-based time series forecasting with texts. ![](https://img.shields.io/github/stars/thuml/AutoTimes)
 
 
-#### Model Library
-* [Time Series Library](https://github.com/thuml/Time-Series-Library) - Co-Author. ![](https://img.shields.io/github/stars/thuml/Time-Series-Library?size=small)
+#### Algorithms and Model Package
+* [Large-Time-Series-Model](https://github.com/thuml/Large-Time-Series-Model) - Maintainer. ![](https://img.shields.io/github/stars/thuml/Large-Time-Series-Model)
 * [OpenLTM](https://github.com/thuml/OpenLTM) - Maintainer. ![](https://img.shields.io/github/stars/thuml/OpenLTM)
+* [Time Series Library](https://github.com/thuml/Time-Series-Library) - Co-Author. ![](https://img.shields.io/github/stars/thuml/Time-Series-Library?size=small)
 * [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library) - Committer. ![](https://img.shields.io/github/stars/thuml/Transfer-Learning-Library?color=yellow)
 
 
@@ -57,10 +57,10 @@ For more information, please take a look at my [Google Scholar](https://scholar
 
 
 ## Invited Talks
-* Foundation Models and Analytical System for Time Series at [Apache IoTDB](https://iotdb.apache.org/). [Slides]
-* Exploring Large Models for Time Series at [IoA, CAS](http://english.ia.cas.cn/). [Slides]
-* Deep Learning for Time Series Applications at [DoA, THU](https://www.au.tsinghua.edu.cn/). [Slides]
-* Large Models for Native Database Analysis at [TPCTC 2024](https://www.tpc.org/tpctc/tpctc2024/default5.asp). [PDF]
+* Foundation Models and Analytical System for Time Series at [Apache IoTDB](https://iotdb.apache.org/). [[Slides]](https://cloud.tsinghua.edu.cn/f/440e0841eb6745f5b987/)
+* Large Models for Native Database Analysis at [TPCTC 2024](https://www.tpc.org/tpctc/tpctc2024/default5.asp). [[Slides]](https://cloud.tsinghua.edu.cn/f/2c2eda6d4af14c829672/)
+* Exploring Large Models for Time Series at [IoA, CAS](http://english.ia.cas.cn/). [[Slides]](https://cloud.tsinghua.edu.cn/f/8a585e37f45f46fd97d0/)
+* Deep Learning for Time Series Applications at [DoA, THU](https://www.au.tsinghua.edu.cn/). [[Slides]](https://cloud.tsinghua.edu.cn/f/2100e769f2a7413b9e33/)
 
 
 
@@ -70,9 +70,9 @@ For more information, please take a look at my [Google Scholar](https://scholar
 
 * Conference Reviewer, International Conference on Learning Representations ([ICLR](http://iclr.cc/)) 2024-2025.
 * Conference Reviewer, International Conference on Machine Learning ([ICML](http://icml.cc/)) 2022-2025.
+* Conference Reviewer, Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/)) 2023-2025.
 * Conference Reviewer, International Conference on Machine Learning ([CVPR](https://cvpr2023.thecvf.com/)) 2023.
 * Conference Reviewer, International Conference on Very Large Databases ([VLDB](https://www.vldb.org/)) 2023.
-* Conference Reviewer, Conference on Neural Information Processing Systems ([NeurIPS](https://neurips.cc/)) 2023-2025.
 
 #### Teaching Experiences
 

@@ -7,7 +7,7 @@ main:
     image: ./assets/img/sundial_cover.png
     code: https://github.com/thuml/Sundial
     checkpoint: https://huggingface.co/thuml/sundial-base-128m
-    notes: Oral
+    notes: Oral Paper
 
   - title: "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting"
     authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
@@ -32,7 +32,7 @@ main:
     poster: https://cloud.tsinghua.edu.cn/f/36a2ae6c132d44c0bd8c/
     slides: https://cloud.tsinghua.edu.cn/f/175ff98f7e2d44fbbe8e/
     intro: https://mp.weixin.qq.com/s/-pvBnA1_NSloNxa6TYXTSg
-    notes: Spotlight
+    notes: Spotlight Paper, PaperDigest Most Influential Paper
 
   - title: "Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting"
     authors: <strong>Yong Liu*</strong>, Haiwu Wu*, Jianmin Wang, Mingsheng Long#
@@ -79,7 +79,7 @@ main:
     image: ./assets/img/timesnet_cover.png
     slides: https://wuhaixu2016.github.io/pdf/ICLR2023_TimesNet.pdf
     intro: https://mp.weixin.qq.com/s/dhk-ASnrNG_Y99xykHaCUA
-    notes: Accepted
+    notes: Accepted, PaperDigest Most Influential Paper
 
   - title: "AutoTimes: Autoregressive Time Series Forecasters via Large Language Models"
     authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
