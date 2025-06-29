@@ -57,8 +57,9 @@ For more information, please take a look at my [Google Scholar](https://scholar
 
 
 ## Invited Talks
-* Foundation Models and Analytical System for Time Series at [Apache IoTDB](https://iotdb.apache.org/). [[Slides]](https://cloud.tsinghua.edu.cn/f/440e0841eb6745f5b987/)
-* Large Models for Native Database Analysis at [TPCTC 2024](https://www.tpc.org/tpctc/tpctc2024/default5.asp). [[Slides]](https://cloud.tsinghua.edu.cn/f/2c2eda6d4af14c829672/)
+* Large Time Series Models and Resources at [ISF 2025](https://forecasters.org/events/symposium-on-forecasting/). [[Slides]](https://cloud.tsinghua.edu.cn/f/c5fca76d6fa54f1d891a/)
+* Foundation Models and MLSys for Time Series at [Apache IoTDB](https://iotdb.apache.org/). [[Slides]](https://cloud.tsinghua.edu.cn/f/7b88e05d38bb40a1be30/)
+* Large Models for Native Database Analysis at [TPCTC 2024](https://www.tpc.org/tpctc/tpctc2024/default5.asp). [[Slides]](https://cloud.tsinghua.edu.cn/f/bfaf549f9c7a4f00b68b/)
 * Exploring Large Models for Time Series at [IoA, CAS](http://english.ia.cas.cn/). [[Slides]](https://cloud.tsinghua.edu.cn/f/8a585e37f45f46fd97d0/)
 * Deep Learning for Time Series Applications at [DoA, THU](https://www.au.tsinghua.edu.cn/). [[Slides]](https://cloud.tsinghua.edu.cn/f/2100e769f2a7413b9e33/)
 
