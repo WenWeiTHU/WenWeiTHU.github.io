@@ -7,6 +7,8 @@ main:
     image: ./assets/img/sundial_cover.png
     code: https://github.com/thuml/Sundial
     checkpoint: https://huggingface.co/thuml/sundial-base-128m
+    poster: https://cloud.tsinghua.edu.cn/f/cc2a156315e9453f99b3/
+    slides: https://cloud.tsinghua.edu.cn/f/8d526337afde465e87c9/
     notes: Oral Paper
 
   - title: "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting"
