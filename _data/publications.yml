@@ -102,6 +102,14 @@ main:
     image: ./assets/img/timexer_cover.png
     notes: Accepted
 
+  - title: "TimesBERT: A BERT-Style Foundation Model for Time Series Understanding"
+    authors: Haoran Zhang*, <strong>Yong Liu*</strong>, Yunzhong Qiu*, Haixuan Liu, Zhongyi Pei, Jianmin Wang, Mingsheng Long
+    conference_short: ACM MM
+    conference: ACM International Conference on Multimedia, 2025.
+    pdf: https://arxiv.org/abs/2502.21245
+    image: ./assets/img/timesbert_cover.png
+    notes: Accepted
+
   - title: "Deep Time Series Models: A Comprehensive Survey and Benchmark"
     authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, <strong>Yong Liu</strong>, Mingsheng Long, Jianmin Wang#
     conference_short: arxiv
