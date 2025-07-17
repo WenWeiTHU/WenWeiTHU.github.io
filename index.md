@@ -28,7 +28,7 @@ For more information, please take a look at my [Google Scholar](https://scholar
 
 {% include_relative _includes/publications.md %}
 
-
+*\* Equal Contribution, \# Corresponding Author*
 
 ## Selected Projects
 

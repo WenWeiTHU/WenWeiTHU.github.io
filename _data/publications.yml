@@ -9,6 +9,7 @@ main:
     checkpoint: https://huggingface.co/thuml/sundial-base-128m
     poster: https://cloud.tsinghua.edu.cn/f/cc2a156315e9453f99b3/
     slides: https://cloud.tsinghua.edu.cn/f/8d526337afde465e87c9/
+    intro: https://mp.weixin.qq.com/s/y3sc2e2lmW1sqfnoK-ZdDA
     notes: Oral Paper
 
   - title: "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting"
@@ -22,6 +23,7 @@ main:
     poster: https://cloud.tsinghua.edu.cn/f/378fbc6f0359460880aa/
     slides: https://cloud.tsinghua.edu.cn/f/2d4b660fc05148dc8f30/
     checkpoint: https://huggingface.co/thuml/timer-base-84m
+    intro: https://mp.weixin.qq.com/s/IFqysOWo1prdjeBpCiNXBg
     notes: Accepted
 
   - title: "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting"
@@ -58,6 +60,7 @@ main:
     poster: https://cloud.tsinghua.edu.cn/f/91da8a3d06984f209461/
     slides: https://cloud.tsinghua.edu.cn/f/b766629dbc584a4e8563/
     dataset: https://huggingface.co/datasets/thuml/UTSD
+    intro: https://mp.weixin.qq.com/s/h9RHM_n89gjCohTXHu7m4Q
     notes: Accepted
 
   - title: "Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors"
@@ -99,6 +102,7 @@ main:
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems, 2024.
     pdf: https://arxiv.org/abs/2402.19072
+    code: https://github.com/thuml/TimeXer
     image: ./assets/img/timexer_cover.png
     notes: Accepted
 
@@ -108,6 +112,14 @@ main:
     conference: ACM International Conference on Multimedia, 2025.
     pdf: https://arxiv.org/abs/2502.21245
     image: ./assets/img/timesbert_cover.png
+    notes: Accepted
+
+  - title: "FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting"
+    authors: Wenzhen Yue, <strong>Yong Liu</strong>, Xianghua Ying, Bowei Xing, Ruohao Guo, Ji Shi
+    conference_short: IJCAI
+    conference: International Joint Conferences on Artificial Intelligence, 2025.
+    pdf: https://arxiv.org/abs/2501.13989
+    image: ./assets/img/freeformer_cover.png
     notes: Accepted
 
   - title: "Deep Time Series Models: A Comprehensive Survey and Benchmark"
