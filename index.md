@@ -27,8 +27,7 @@ For more information, please take a look at my [Google Scholar](https://scholar
 - **[Oct. 2022]** [Non-stationary Transformers](https://arxiv.org/abs/2205.14415) was accepted as **NeurIPS 2022**.
 
 {% include_relative _includes/publications.md %}
-
-*\* Equal Contribution, \# Corresponding Author*
+*(\* Equal Contribution, \# Corresponding Author)*
 
 ## Selected Projects
 
