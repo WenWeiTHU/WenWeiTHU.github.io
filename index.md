@@ -56,7 +56,7 @@ For more information, please take a look at my [Google Scholar](https://scholar
 
 
 ## Invited Talks
-* Oral (Top 1\%) Presentation ([Sundial](https://icml.cc/virtual/2025/oral/47235)) at [ICML 2025](https://icml.cc/Conferences/2025). [[Slides]](https://cloud.tsinghua.edu.cn/f/8d526337afde465e87c9/)
+* Oral Presentation ([Sundial](https://icml.cc/virtual/2025/oral/47235)) at [ICML 2025](https://icml.cc/Conferences/2025). [[Slides]](https://cloud.tsinghua.edu.cn/f/8d526337afde465e87c9/)
 * Large Time Series Models and Resources at [ISF 2025](https://forecasters.org/events/symposium-on-forecasting/). [[Slides]](https://cloud.tsinghua.edu.cn/f/c5fca76d6fa54f1d891a/)
 * Foundation Models and MLSys for Time Series at [Apache IoTDB](https://iotdb.apache.org/). [[Slides]](https://cloud.tsinghua.edu.cn/f/7b88e05d38bb40a1be30/)
 * Large Models for Native Database Analysis at [TPCTC 2024](https://www.tpc.org/tpctc/tpctc2024/default5.asp). [[Slides]](https://cloud.tsinghua.edu.cn/f/bfaf549f9c7a4f00b68b/)
