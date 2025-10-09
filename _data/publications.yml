@@ -12,18 +12,17 @@ main:
     intro: https://mp.weixin.qq.com/s/y3sc2e2lmW1sqfnoK-ZdDA
     notes: Oral Paper
 
-  - title: "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting"
-    authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
-    conference_short: ICLR
-    conference: International Conference on Learning Representations, 2025.
-    pdf: https://arxiv.org/abs/2410.04803
-    image: ./assets/img/timer_xl_cover.png
-    code: https://github.com/thuml/Timer-XL
-    lib: https://github.com/thuml/OpenLTM
-    poster: https://cloud.tsinghua.edu.cn/f/378fbc6f0359460880aa/
-    slides: https://cloud.tsinghua.edu.cn/f/2d4b660fc05148dc8f30/
-    checkpoint: https://huggingface.co/thuml/timer-base-84m
-    intro: https://mp.weixin.qq.com/s/IFqysOWo1prdjeBpCiNXBg
+  - title: "Timer: Generative Pre-trained Transformers Are Large Time Series Models"
+    authors: <strong>Yong Liu*</strong>, Haoran Zhang*, Chenyu Li*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
+    conference_short: ICML
+    conference: International Conference on Machine Learning, 2024.
+    pdf: https://arxiv.org/abs/2402.02368
+    code: https://github.com/thuml/Large-Time-Series-Model
+    image: ./assets/img/timer_cover.png
+    poster: https://cloud.tsinghua.edu.cn/f/91da8a3d06984f209461/
+    slides: https://cloud.tsinghua.edu.cn/f/b766629dbc584a4e8563/
+    dataset: https://huggingface.co/datasets/thuml/UTSD
+    intro: https://mp.weixin.qq.com/s/h9RHM_n89gjCohTXHu7m4Q
     notes: Accepted
 
   - title: "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting"
@@ -50,17 +49,18 @@ main:
     intro: https://mp.weixin.qq.com/s/LkpkTiNBVBYA-FqzAdy4dw
     notes: Accepted
 
-  - title: "Timer: Generative Pre-trained Transformers Are Large Time Series Models"
-    authors: <strong>Yong Liu*</strong>, Haoran Zhang*, Chenyu Li*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
-    conference_short: ICML
-    conference: International Conference on Machine Learning, 2024.
-    pdf: https://arxiv.org/abs/2402.02368
-    code: https://github.com/thuml/Large-Time-Series-Model
-    image: ./assets/img/timer_cover.png
-    poster: https://cloud.tsinghua.edu.cn/f/91da8a3d06984f209461/
-    slides: https://cloud.tsinghua.edu.cn/f/b766629dbc584a4e8563/
-    dataset: https://huggingface.co/datasets/thuml/UTSD
-    intro: https://mp.weixin.qq.com/s/h9RHM_n89gjCohTXHu7m4Q
+  - title: "Timer-XL: Long-Context Transformers for Unified Time Series Forecasting"
+    authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2025.
+    pdf: https://arxiv.org/abs/2410.04803
+    image: ./assets/img/timer_xl_cover.png
+    code: https://github.com/thuml/Timer-XL
+    lib: https://github.com/thuml/OpenLTM
+    poster: https://cloud.tsinghua.edu.cn/f/378fbc6f0359460880aa/
+    slides: https://cloud.tsinghua.edu.cn/f/2d4b660fc05148dc8f30/
+    checkpoint: https://huggingface.co/thuml/timer-base-84m
+    intro: https://mp.weixin.qq.com/s/IFqysOWo1prdjeBpCiNXBg
     notes: Accepted
 
   - title: "Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors"
@@ -112,6 +112,14 @@ main:
     conference: ACM International Conference on Multimedia, 2025.
     pdf: https://arxiv.org/abs/2502.21245
     image: ./assets/img/timesbert_cover.png
+    notes: Accepted
+
+  - title: "OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain"
+    authors: Wenzhen Yue, <strong>Yong Liu</strong>, Haoxuan Li, Hao Wang, Xianghua Ying, Ruohao Guo, Bowei Xing, Ji Shi
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems, 2025.
+    pdf: https://arxiv.org/abs/2505.08550
+    image: ./assets/img/olinear_cover.png
     notes: Accepted
 
   - title: "FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting"
