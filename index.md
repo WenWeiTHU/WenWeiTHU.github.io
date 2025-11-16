@@ -96,7 +96,7 @@ For more information, please take a look at my [Google Scholar](https://scholar
 
 
 ## Honors & Awards
-
+* National Scholarship (清华大学博士生国家奖学金), 2025.
 * Outstanding Papers of Beijing (北京市优秀毕业论文), 2021.
 * Outstanding Graduates of Beijing (北京市优秀毕业生), 2021.
 * Excellent Graduates of Tsinghua (清华大学优秀毕业生), 2021.

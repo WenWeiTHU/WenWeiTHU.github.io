@@ -86,6 +86,14 @@ main:
     intro: https://mp.weixin.qq.com/s/dhk-ASnrNG_Y99xykHaCUA
     notes: Accepted, PaperDigest Most Influential Paper
 
+  - title: "CoRA: Covariate-Aware Adaptation of Time Series Foundation Models"
+    authors: Guo Qin*, Zhi Che*, <strong>Yong Liu*</strong>, Zhiyuan Shi, Haixuan Liu, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
+    conference_short: arxiv
+    conference: arxiv preprint
+    pdf: https://arxiv.org/pdf/2510.12681
+    image: ./assets/img/cora_cover.png
+    notes: arXiv preprint, 2025
+
   - title: "AutoTimes: Autoregressive Time Series Forecasters via Large Language Models"
     authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
     conference_short: NeurIPS
@@ -136,6 +144,14 @@ main:
     conference: arxiv preprint
     pdf: https://arxiv.org/abs/2407.13278
     image: ./assets/img/dl4ts_cover.png
+    notes: arXiv preprint, 2025
+
+  - title: "Accuracy Law for the Future of Deep Time Series Forecasting"
+    authors: Yuxuan Wang, Haixu Wu, Yuezhou Ma, Yuchen Fang, Ziyi Zhang, <strong>Yong Liu</strong>, Shiyu Wang, Zhou Ye, Yang Xiang, Jianmin Wang, Mingsheng Long#
+    conference_short: arxiv
+    conference: arxiv preprint
+    pdf: https://arxiv.org/pdf/2510.02729
+    image: ./assets/img/acclaw_cover.png
     notes: arXiv preprint, 2025
 
   - title: "Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs"
