@@ -87,7 +87,7 @@ main:
     notes: Accepted, PaperDigest Most Influential Paper
 
   - title: "CoRA: Covariate-Aware Adaptation of Time Series Foundation Models"
-    authors: Guo Qin*, Zhi Che*, <strong>Yong Liu*</strong>, Zhiyuan Shi, Haixuan Liu, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
+    authors: Guo Qin*, Zhi Chen*, <strong>Yong Liu*</strong>, Zhiyuan Shi, Haixuan Liu, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
     conference_short: arxiv
     conference: arxiv preprint
     pdf: https://arxiv.org/pdf/2510.12681
