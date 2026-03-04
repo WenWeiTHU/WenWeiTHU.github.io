@@ -86,13 +86,13 @@ main:
     intro: https://mp.weixin.qq.com/s/dhk-ASnrNG_Y99xykHaCUA
     notes: Accepted, PaperDigest Most Influential Paper
 
-  - title: "CoRA: Covariate-Aware Adaptation of Time Series Foundation Models"
-    authors: Guo Qin*, Zhi Chen*, <strong>Yong Liu*</strong>, Zhiyuan Shi, Haixuan Liu, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
-    conference_short: arxiv
-    conference: arxiv preprint
-    pdf: https://arxiv.org/pdf/2510.12681
-    image: ./assets/img/cora_cover.png
-    notes: arXiv preprint, 2025
+  # - title: "CoRA: Covariate-Aware Adaptation of Time Series Foundation Models"
+  #   authors: Guo Qin*, Zhi Chen*, <strong>Yong Liu*</strong>, Zhiyuan Shi, Haixuan Liu, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
+  #   conference_short: arxiv
+  #   conference: arxiv preprint
+  #   pdf: https://arxiv.org/pdf/2510.12681
+  #   image: ./assets/img/cora_cover.png
+  #   notes: arXiv preprint, 2025
 
   - title: "AutoTimes: Autoregressive Time Series Forecasters via Large Language Models"
     authors: <strong>Yong Liu*</strong>, Guo Qin*, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
@@ -105,38 +105,38 @@ main:
     slides: https://cloud.tsinghua.edu.cn/f/7689d30f92594ded84f0/
     notes: Accepted
 
-  - title: "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables"
-    authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, Guo Qin, Haoran Zhang, <strong>Yong Liu</strong>, Yunzhong Qiu, Jianmin Wang, Mingsheng Long#
-    conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems, 2024.
-    pdf: https://arxiv.org/abs/2402.19072
-    code: https://github.com/thuml/TimeXer
-    image: ./assets/img/timexer_cover.png
-    notes: Accepted
+  # - title: "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables"
+  #   authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, Guo Qin, Haoran Zhang, <strong>Yong Liu</strong>, Yunzhong Qiu, Jianmin Wang, Mingsheng Long#
+  #   conference_short: NeurIPS
+  #   conference: Conference on Neural Information Processing Systems, 2024.
+  #   pdf: https://arxiv.org/abs/2402.19072
+  #   code: https://github.com/thuml/TimeXer
+  #   image: ./assets/img/timexer_cover.png
+  #   notes: Accepted
 
-  - title: "TimesBERT: A BERT-Style Foundation Model for Time Series Understanding"
-    authors: Haoran Zhang*, <strong>Yong Liu*</strong>, Yunzhong Qiu*, Haixuan Liu, Zhongyi Pei, Jianmin Wang, Mingsheng Long
-    conference_short: ACM MM
-    conference: ACM International Conference on Multimedia, 2025.
-    pdf: https://arxiv.org/abs/2502.21245
-    image: ./assets/img/timesbert_cover.png
-    notes: Accepted
+  # - title: "TimesBERT: A BERT-Style Foundation Model for Time Series Understanding"
+  #   authors: Haoran Zhang*, <strong>Yong Liu*</strong>, Yunzhong Qiu*, Haixuan Liu, Zhongyi Pei, Jianmin Wang, Mingsheng Long
+  #   conference_short: ACM MM
+  #   conference: ACM International Conference on Multimedia, 2025.
+  #   pdf: https://arxiv.org/abs/2502.21245
+  #   image: ./assets/img/timesbert_cover.png
+  #   notes: Accepted
 
-  - title: "OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain"
-    authors: Wenzhen Yue, <strong>Yong Liu</strong>, Haoxuan Li, Hao Wang, Xianghua Ying, Ruohao Guo, Bowei Xing, Ji Shi
-    conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems, 2025.
-    pdf: https://arxiv.org/abs/2505.08550
-    image: ./assets/img/olinear_cover.png
-    notes: Accepted
+  # - title: "OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain"
+  #   authors: Wenzhen Yue, <strong>Yong Liu</strong>, Haoxuan Li, Hao Wang, Xianghua Ying, Ruohao Guo, Bowei Xing, Ji Shi
+  #   conference_short: NeurIPS
+  #   conference: Conference on Neural Information Processing Systems, 2025.
+  #   pdf: https://arxiv.org/abs/2505.08550
+  #   image: ./assets/img/olinear_cover.png
+  #   notes: Accepted
 
-  - title: "FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting"
-    authors: Wenzhen Yue, <strong>Yong Liu</strong>, Xianghua Ying, Bowei Xing, Ruohao Guo, Ji Shi
-    conference_short: IJCAI
-    conference: International Joint Conferences on Artificial Intelligence, 2025.
-    pdf: https://arxiv.org/abs/2501.13989
-    image: ./assets/img/freeformer_cover.png
-    notes: Accepted
+  # - title: "FreEformer: Frequency Enhanced Transformer for Multivariate Time Series Forecasting"
+  #   authors: Wenzhen Yue, <strong>Yong Liu</strong>, Xianghua Ying, Bowei Xing, Ruohao Guo, Ji Shi
+  #   conference_short: IJCAI
+  #   conference: International Joint Conferences on Artificial Intelligence, 2025.
+  #   pdf: https://arxiv.org/abs/2501.13989
+  #   image: ./assets/img/freeformer_cover.png
+  #   notes: Accepted
 
   - title: "Deep Time Series Models: A Comprehensive Survey and Benchmark"
     authors: Yuxuan Wang*, Haixu Wu*, Jiaxiang Dong, <strong>Yong Liu</strong>, Mingsheng Long, Jianmin Wang#
@@ -146,13 +146,13 @@ main:
     image: ./assets/img/dl4ts_cover.png
     notes: arXiv preprint, 2025
 
-  - title: "Accuracy Law for the Future of Deep Time Series Forecasting"
-    authors: Yuxuan Wang, Haixu Wu, Yuezhou Ma, Yuchen Fang, Ziyi Zhang, <strong>Yong Liu</strong>, Shiyu Wang, Zhou Ye, Yang Xiang, Jianmin Wang, Mingsheng Long#
-    conference_short: arxiv
-    conference: arxiv preprint
-    pdf: https://arxiv.org/pdf/2510.02729
-    image: ./assets/img/acclaw_cover.png
-    notes: arXiv preprint, 2025
+  # - title: "Accuracy Law for the Future of Deep Time Series Forecasting"
+  #   authors: Yuxuan Wang, Haixu Wu, Yuezhou Ma, Yuchen Fang, Ziyi Zhang, <strong>Yong Liu</strong>, Shiyu Wang, Zhou Ye, Yang Xiang, Jianmin Wang, Mingsheng Long#
+  #   conference_short: arxiv
+  #   conference: arxiv preprint
+  #   pdf: https://arxiv.org/pdf/2510.02729
+  #   image: ./assets/img/acclaw_cover.png
+  #   notes: arXiv preprint, 2025
 
   - title: "Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs"
     authors: Kaichao You*, <strong>Yong Liu*</strong>, Ziyang Zhang, Jianmin Wang, Michael I. Jordan, Mingsheng Long#
@@ -164,12 +164,12 @@ main:
     intro: https://mp.weixin.qq.com/s/fgmp5Cph8wIgf2IbPoHj7w
     notes: Accepted
 
-  - title: "LogME: Practical Assessment of Pre-trained Models for Transfer Learning"
-    authors: Kaichao You*, <strong>Yong Liu*</strong>, Jianmin Wang, Mingsheng Long#
-    conference_short: ICML
-    conference: International Conference on Machine Learning, 2021.
-    pdf: https://proceedings.mlr.press/v139/you21b.html
-    code: https://github.com/thuml/LogME
-    image: ./assets/img/logme_cover.png
-    intro: https://mp.weixin.qq.com/s/9lJEcwkXAN4jaENNghjpyw
-    notes: Accepted
+  # - title: "LogME: Practical Assessment of Pre-trained Models for Transfer Learning"
+  #   authors: Kaichao You*, <strong>Yong Liu*</strong>, Jianmin Wang, Mingsheng Long#
+  #   conference_short: ICML
+  #   conference: International Conference on Machine Learning, 2021.
+  #   pdf: https://proceedings.mlr.press/v139/you21b.html
+  #   code: https://github.com/thuml/LogME
+  #   image: ./assets/img/logme_cover.png
+  #   intro: https://mp.weixin.qq.com/s/9lJEcwkXAN4jaENNghjpyw
+  #   notes: Accepted
