@@ -13,8 +13,8 @@ For more information, please take a look at my [Google Scholar](https://scholar
 
 ## News
 - **[Mar. 2026]** We released a [technical report](https://arxiv.org/pdf/2603.04791) about Timer-S1, a time series foundation model with 8.3B parameters (0.75B activated) and a context length of 11,520.
-- **[Jun. 2025]** A **trillion-scale** pre-trained time series foundation model ([Sundial](https://github.com/thuml/Sundial)) is released on [HuggingFace](https://huggingface.co/thuml/sundial-base-128m).
-- **[Jun. 2025]** A **generative foundation model** for time series ([Sundial](https://arxiv.org/abs/2502.00816)) was accepted as **ICML 2025 Oral**!
+- **[Jun. 2025]** [Sundial](https://github.com/thuml/Sundial)) is released on [HuggingFace](https://huggingface.co/thuml/sundial-base-128m).
+- **[Jun. 2025]** A **generative time series foundation model** ([Sundial](https://arxiv.org/abs/2502.00816)) was accepted as **ICML 2025 Oral**!
 - **[Mar. 2025]** An open-source large time-series model ([Timer](https://arxiv.org/abs/2410.04803)) is released on [HuggingFace](https://huggingface.co/thuml/timer-base-84m), which supports **zero-shot forecasting**.
 - **[Jan. 2025]** A **long-context** model for **multidimensional** time series ([Timer-XL](https://arxiv.org/abs/2410.04803)) was accepted in **ICLR 2025**.
 - **[Jan. 2025]** iTransformer for Ant Group Green Computing are awarded as [Outstanding Projects of CCF Fund](https://mp.weixin.qq.com/s/PDLNbibZD3kqhcUoNejLfA).
