@@ -4,26 +4,26 @@ layout: homepage
 
 ## About Me
 
-I am currently a PhD student (from fall, 2021) at the [School of Software](https://www.thss.tsinghua.edu.cn/en/) of [Tsinghua University](https://www.tsinghua.edu.cn/en/) and a member of the [THUML](https://thuml.ai/), advised by Prof. [MingSheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). 
+I am currently a PhD student (from fall, 2021) at the [School of Software](https://www.thss.tsinghua.edu.cn/en/) of [Tsinghua University](https://www.tsinghua.edu.cn/en/) and a member of the [THUML](https://thuml.ai/), advised by Prof. [MingSheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). I am currently a Research Intern at [ByteDance](https://www.bytedance.com/).
 
-My research interests cover Deep Learning and Time Series Analysis. I am currently working on time series foundation models and MLSys for time series. In addition to pure research, I also dedicate myself to promoting research on valuable real-world applications. My research aims to contribute to the advancement of intelligent systems capable of handling massive and complicated temporal data across domains, including finance, healthcare, industry, and environment.
+My research interests cover Deep Learning and Time Series Analysis. I am currently working on time series foundation models. My research aims to contribute to the advancement of intelligent systems capable of handling massive and complicated temporal data across domains.
 
 For more information, please take a look at my [Google Scholar](https://scholar.google.com/citations?user=dS9HVU8AAAAJ) and [GitHub](https://github.com/WenWeiTHU).
 
 
 ## News
-- **[Mar. 2026]** We released a [technical report](https://arxiv.org/pdf/2603.04791) about Timer-S1, a time series foundation model with 8.3B parameters (0.75B activated).
+- **[Mar. 2026]** We released a [technical report](https://arxiv.org/pdf/2603.04791) about Timer-S1.
 - **[Jun. 2025]** [Sundial](https://github.com/thuml/Sundial) is released on [HuggingFace](https://huggingface.co/thuml/sundial-base-128m).
-- **[Jun. 2025]** A generative time series foundation model ([Sundial](https://arxiv.org/abs/2502.00816)) was accepted as **ICML 2025 Oral**.
-- **[Mar. 2025]** An large time series model ([Timer](https://arxiv.org/abs/2410.04803)) is released on [HuggingFace](https://huggingface.co/thuml/timer-base-84m).
-- **[Jan. 2025]** A long-context model for unfified time series forecasting ([Timer-XL](https://arxiv.org/abs/2410.04803)) was accepted in **ICLR 2025**.
-- **[Jan. 2025]** iTransformer for Ant Group Green Computing are awarded as [Outstanding Projects of CCF Fund](https://mp.weixin.qq.com/s/PDLNbibZD3kqhcUoNejLfA).
-- **[Sep. 2024]** Two papers ([AutoTimes](https://arxiv.org/abs/2402.02368) and [TimeXer](https://arxiv.org/abs/2402.19072)) were accepted in **NeurIPS 2024**.
-- **[Jun. 2024]** A pre-trained time series Transformer ([Timer](https://arxiv.org/abs/2402.02368)) was accepted in **ICML 2024**. [Code](https://github.com/thuml/Large-Time-Series-Model) is available.
-- **[Jan. 2024]** A Trasnformer for multivariate forecasting ([iTransformer](https://github.com/thuml/iTransformer)) was accepted as **ICLR 2024 Spotlight**.
-- **[Dec. 2023]** Native AI analytical engine ([AINode](https://iotdb.apache.org/UserGuide/latest/AI-capability/AINode_apache)) in database ([Apache IoTDB](https://github.com/apache/iotdb)) is released.
-- **[Oct. 2023]** A linear model for non-stationary forecasting inspired by Koopman theory ([Koopa](https://arxiv.org/abs/2305.18803)) was accepted as **NeurIPS 2023**.
-- **[Apr. 2023]** [TimesNet](https://arxiv.org/abs/2210.02186) for general time series analysis was accepted as **ICLR 2023**.
+- **[Jun. 2025]** [Sundial](https://arxiv.org/abs/2502.00816) was accepted as **ICML 2025 Oral**.
+- **[Mar. 2025]** [Timer](https://arxiv.org/abs/2410.04803) is released on [HuggingFace](https://huggingface.co/thuml/timer-base-84m).
+- **[Jan. 2025]** [Timer-XL](https://arxiv.org/abs/2410.04803) was accepted in **ICLR 2025**.
+- **[Jan. 2025]** iTransformer are awarded as [Outstanding Projects of CCF Fund](https://mp.weixin.qq.com/s/PDLNbibZD3kqhcUoNejLfA).
+- **[Sep. 2024]** [AutoTimes](https://arxiv.org/abs/2402.02368) and [TimeXer](https://arxiv.org/abs/2402.19072) were accepted in **NeurIPS 2024**.
+- **[Jun. 2024]** [Timer](https://arxiv.org/abs/2402.02368) was accepted in **ICML 2024**.
+- **[Jan. 2024]** [iTransformer](https://github.com/thuml/iTransformer) was accepted as **ICLR 2024 Spotlight**.
+- **[Dec. 2023]** [AINode](https://iotdb.apache.org/UserGuide/latest/AI-capability/AINode_apache) in database ([Apache IoTDB](https://github.com/apache/iotdb)) is released.
+- **[Oct. 2023]** [Koopa](https://arxiv.org/abs/2305.18803) was accepted as **NeurIPS 2023**.
+- **[Apr. 2023]** [TimesNet](https://arxiv.org/abs/2210.02186) was accepted as **ICLR 2023**.
 - **[Oct. 2022]** [Non-stationary Transformer](https://arxiv.org/abs/2205.14415) was accepted as **NeurIPS 2022**.
 
 {% include_relative _includes/publications.md %}
