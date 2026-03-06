@@ -1,4 +1,11 @@
 main:
+  - title: "Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling"
+    authors: <strong>Yong Liu*</strong>, Xingjian Su*, Shiyu Wang*, Haoran Zhang*, Haixuan Liu, Yuxuan Wang, Zhou Ye, Yang Xiang, Jianmin Wang, Mingsheng Long#
+    pdf: https://arxiv.org/abs/2603.04791
+    image: ./assets/img/timer_s1_cover.png
+    checkpoint: https://huggingface.co/thuml/timer-s1
+    notes: Technical Report
+
   - title: "Sundial: A Family of Highly Capable Time Series Foundation Models"
     authors: <strong>Yong Liu*</strong>, Guo Qin*, Zhiyuan Shi, Zhi Chen, Caiyin Yang, Xiangdong Huang, Jianmin Wang, Mingsheng Long#
     conference_short: ICML
