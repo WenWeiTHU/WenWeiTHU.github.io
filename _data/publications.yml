@@ -1,6 +1,8 @@
 main:
   - title: "Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling"
     authors: <strong>Yong Liu*</strong>, Xingjian Su*, Shiyu Wang*, Haoran Zhang*, Haixuan Liu, Yuxuan Wang, Zhou Ye, Yang Xiang, Jianmin Wang, Mingsheng Long#
+    conference_short: arxiv
+    conference: arxiv preprint
     pdf: https://arxiv.org/abs/2603.04791
     image: ./assets/img/timer_s1_cover.png
     checkpoint: https://huggingface.co/thuml/timer-s1
