@@ -4,8 +4,9 @@ main:
     conference_short: arxiv
     conference: arxiv preprint
     pdf: https://arxiv.org/abs/2603.04791
+    code: https://github.com/bytedance-research/Timer-S1
     image: ./assets/img/timer_s1_cover.png
-    checkpoint: https://huggingface.co/thuml/timer-s1
+    checkpoint: https://huggingface.co/bytedance-research/Timer-S1
     notes: Technical Report
 
   - title: "Sundial: A Family of Highly Capable Time Series Foundation Models"
