@@ -4,9 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am currently a PhD student (from fall, 2021) at the [School of Software](https://www.thss.tsinghua.edu.cn/en/) of [Tsinghua University](https://www.tsinghua.edu.cn/en/) and a member of the [THUML](https://thuml.ai/), advised by Prof. [MingSheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). 
+I am currently an AI researcher @ [ByteDance](https://www.bytedance.com/). Previously, I received my Ph.D degree from [School of Software](https://www.thss.tsinghua.edu.cn/en/) of [Tsinghua University](https://www.tsinghua.edu.cn/en/), 
+advised by Prof. [MingSheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/) [THUML](https://thuml.ai/). 
 
-My research interests cover Deep Learning and Time Series Analysis. I am currently working on time series foundation models. My research aims to contribute to the advancement of intelligent systems capable of handling massive and complicated temporal data across domains.
+My research interests cover Deep Learnning and Foundation Model. I am currently working on generic time series foundation models and agentic forecasting. My research aims to contribute to the advancement of intelligent systems capable of handling massive and complicated temporal data across domains.
 
 For more information, please take a look at my [Google Scholar](https://scholar.google.com/citations?user=dS9HVU8AAAAJ) and [GitHub](https://github.com/WenWeiTHU).
 
@@ -32,8 +33,10 @@ For more information, please take a look at my [Google Scholar](https://scholar
 ## Selected Projects
 
 #### HuggingFace Models
+* [Timer-S1](https://huggingface.co/bytedance-research/Timer-S1) - Billion-scale times series foundation models (8.3B total parameters, 0.75B activated parameters).
 * [Sundial](https://huggingface.co/thuml/sundial-base-128m) - Generative times series foundation models (Pre-trained on 1 trillion pts).
 * [Timer](https://huggingface.co/thuml/timer-base-84m) - Large times-series models (Pre-trained on 260 billion pts).
+
 
 #### Deep Models for Time Series
 * [iTransformer](https://github.com/thuml/iTransformer) - Foundation Multivariate Time Series Model. ![](https://img.shields.io/github/stars/thuml/iTransformer)
@@ -87,23 +90,22 @@ For more information, please take a look at my [Google Scholar](https://scholar
 
 
 
-## Education
+## Experience & Education
 
-* *Ph.D.* in Software Engineering ([School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/)), 2021 to present.
+* *AI Researcher* in ([ByteDance](https://www.bytedance.com/)), 2026 to present.
+* *Ph.D.* in Software Engineering ([School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/)), 2021 to 2026.
+* *Ph.D.* in Software Engineering ([School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/)), 2021 to 2026.
 * *Second Degree* Bachelor in Economics ([School of Economics and Management, Tsinghua University](https://www.sem.tsinghua.edu.cn/)), 2018 to 2021.
 * *Bachelor* in Software Engineering ([School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/)), 2021 to present, 2017 to 2021.
 
 
 
-## Honors & Awards
+## Selected Awards
+* National Scholarship (清华大学优良毕业生), 2026.
 * National Scholarship (清华大学博士生国家奖学金), 2025.
 * Outstanding Papers of Beijing (北京市优秀毕业论文), 2021.
 * Outstanding Graduates of Beijing (北京市优秀毕业生), 2021.
 * Excellent Graduates of Tsinghua (清华大学优秀毕业生), 2021.
 * Future Researcher Scholarship of Tsinghua (清华大学未来学者奖学金), 2021.
-* Tuyoo Scholarship (途游奖学金), 2024.
-* Shenzhen Stock Exchange Scholarship (深交所奖学金), 2023.
-* Boeing Scholarship (波音奖学金), 2020.
 * Tang Lixin Scholarship (唐立新优秀奖学金), 2020.
 * Jiang Nanxiang Scholarship (蒋南翔奖学金), 2019.
-* Huawei Scholarship (华为奖学金), 2018.
